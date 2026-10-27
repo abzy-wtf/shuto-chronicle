@@ -1,0 +1,463 @@
+Final column note:,,,,
+O - rival's only appearance,,,,
+,,,,
+#,チーム,本名,通り名,
+R-001,ROLLING GUY,小早川　哲,ローリング野郎1号,
+R-002,ROLLING GUY,三宅　晴彦,ローリング野郎2号,
+R-003,ROLLING GUY,高柳　寛,ローリング野郎3号,
+R-004,ROLLING GUY,吉村　高志,ローリング野郎4号,
+R-005,ROLLING GUY,沢田　辰也,ローリング野郎5号,O
+R-006,Fresh Market,馬渕　良太,ゴールデンステア,
+R-007,Fresh Market,関口　豊一,相模のスモウレスラー,
+R-008,Fresh Market,大里　涼佑,勝利のハンドサイン,O
+R-009,Fresh Market,堂本　哲也,ビッグフラッグ,O
+R-010,PHASE X,浜池　勝久,ワイルドバード,
+R-011,PHASE X,布川　誠司,フライングオクトパス,
+R-012,PHASE X,目黒　伸,哀愁のジュピター,
+R-013,PHASE X,仲原　悦冶,駆け抜ける野犬,
+R-014,PHASE X,須崎　豪,ダンジェリンレッド,
+R-015,PHASE X,南川　達次,もみあげスクリュー,
+R-016,PHASE X,永島　剛,GO　NAGASHIMA,O
+R-017,RHYTHM BOX,井口　薫,ヒップホップレッド,
+R-018,RHYTHM BOX,岡本　裕,JAZZグリーン,
+R-019,RHYTHM BOX,五十嵐　竜馬,クラシカルブルー,
+R-020,RHYTHM BOX,村崎　透,荒れ狂うコリオグラファー,
+R-021,RHYTHM BOX,吉田　美佐,PinkGroove,
+R-022,RHYTHM BOX,稲越　和夫,ミッドナイトブルー,
+R-023,DEPARTURES,渡嘉敷　美智朗,ハッピーチャッピー,
+R-024,DEPARTURES,佐野　みちか,スィートサレンダー,
+R-025,DEPARTURES,相馬　圭,クールサイト,
+R-026,DEPARTURES,相沢　寛,グレートファイナンス,
+R-027,DEPARTURES,中野　浩幸,アップビート,
+R-028,RED POLLUTION,テリー　ソマー,マッドストレンジャー,
+R-029,RED POLLUTION,コム　ホロネル,プライドキラー,
+R-030,RED POLLUTION,アン　ジャコモ,密林のテキーラ,
+R-031,RED POLLUTION,マイク　秋葉,スパイクムーン,
+R-032,RED POLLUTION,ジョー　マッケン,アーミージョー,O
+R-033,RED POLLUTION,オスカー　バレル,暴走バレル,O
+R-034,FAR AWAY,国町　蓮次,マキシマムイーグル,
+R-035,FAR AWAY,登川　勉,ミステリアスホーク,
+R-036,FAR AWAY,アーノルド　ワッツ,リバーサイドクロウ,
+R-037,FAR AWAY,吉田　敬一郎,メロディアスコンドル,
+R-038,FAR AWAY,平　圭輔,ウッドペッカーシンドローム,
+R-039,FAR AWAY,高見　要,奇跡のフラミンゴ,
+R-040,FAR AWAY,松平　貫介,ペンギンドライブ,
+R-041,FAR AWAY,ロバート　ブレスター,あざ笑う鳩,
+R-042,FAR AWAY,上北　幸造,闇夜のアルバトロス,
+R-043,INFINITY,風間　駿一,素敵に無敵,
+R-044,INFINITY,神代　将馬,愛の撃墜王,
+R-045,INFINITY,君津　由澄,魅惑の熱視線,
+R-046,INFINITY,草薙　武志,恋の狩人,
+R-047,INFINITY,榛名　公靖,北斗の流星,
+R-048,INFINITY,冬藤　達実,赤き月光,
+R-049,INFINITY,如月　巧太,心優しき暗殺者,
+R-050,CHALLENGERS,松本　傑,峠のチャレンジャー,O
+R-051,CHALLENGERS,鬼柳　竜司,破竹のチャレンジャー,O
+R-052,CHALLENGERS,細川　金夫,自慢のチャレンジャー,O
+R-053,CHALLENGERS,平野　円,平和のチャレンジャー,O
+R-054,CHALLENGERS,野木　優太,弱気のチャレンジャー,O
+R-055,ROULETTE GUY,九条　龍士,ルーレット野郎1号,O
+R-056,ROULETTE GUY,九条　武虎,ルーレット野郎2号,O
+R-057,ROULETTE GUY,森元　一星,ルーレット野郎3号,O
+R-058,ROULETTE GUY,富吉　久作,ルーレット野郎4号,O
+R-059,ROULETTE GUY,川口　優貴,ルーレット野郎5号,O
+R-060,CLAN MAKITA,真樹田　充,フリー・バード,O
+R-061,CLAN MAKITA,真樹田　亜希,鬼盛れネイルのAki,O
+R-062,CLAN MAKITA,新島　遥,ラピッド・ガール,O
+R-063,CLAN MAKITA,大井戸　時夫,無責任大将,O
+R-064,CLAN MAKITA,樫山　日出夫,無限ロータリー樫山,O
+R-065,CLAN MAKITA,多比良　美咲,ハコ入り娘,O
+R-066,Roadnauts,広兼　大河,キャプテン・インダストリアル,O
+R-067,Roadnauts,堀川　譲司,来なくていいOB,O
+R-068,Roadnauts,三田島　泰弘,COME ON顧問,O
+R-069,Roadnauts,河田　幸三,デスゲームの生き残り,O
+R-070,Roadnauts,スコット　カルヴィン,異国のブックキーパー,O
+R-071,Roadnauts,仲村　奈津美,藍色のヘルムスウーマン,O
+R-072,Roadnauts,桂　慎之助,よろしくメカニック,O
+R-073,K-uicks,宮下　千尋,電光石火のスティンガー,O
+R-074,K-uicks,向井　安恵,小さなビースト,O
+R-075,K-uicks,徳村　早紀,秘密のガーディアン,O
+R-076,K-uicks,寺島　寧々,ブチアゲグルービー,O
+R-077,K-uicks,梅田　啓一,ウメダンディ,O
+R-078,K-uicks,軽井　政義,寡黙なマングース,O
+R-079,M_O_E,三沢　喜一,ゴシック・ザ・マイロード,
+R-080,M_O_E,大滝　零,ブラック・ザ・ゼロファイター,
+R-081,M_O_E,江森　元道,ロジック・ザ・プロフェッサー,
+R-082,DESIRE,友川　レイラ,闇夜のベテルギウス,
+R-083,DESIRE,福戸　保奈美,慟哭のアステリオン,
+R-084,DESIRE,森橋　ジュン,異端のカノープス,
+R-085,TRI EDGE,津田　駿,彷徨える旗手,
+R-086,TRI EDGE,工藤　奏,誘いの旅人,O
+R-087,TRI EDGE,和句津　明,孤独な亡霊,
+R-088,TRI EDGE,戸田　和喜,星屑の巨兵,
+R-089,TRI EDGE,柱谷　高志,黒き剛弓,O
+R-090,TRI EDGE,川島　若菜,天翔ける夜蝶,O
+R-091,The Pleiades,手塚　雅路,第2位の男,
+R-092,The Pleiades,山岸　継男,三界の疾駆者,
+R-093,The Pleiades,藤村　大助,サンダーイーグル,
+R-094,The Pleiades,笹本　拓磨,路上の伏魔殿,
+R-095,The Pleiades,鳥内　将司,バードアイ,O
+R-096,ANOTHER STAR,小幡　尚人,ブルースピード,
+R-097,ANOTHER STAR,上原　洋子,シルバースピード,
+R-098,ANOTHER STAR,三浦　宏治,カミソリの三浦,
+R-099,ANOTHER STAR,高橋　美津枝,レッドシャウト,
+R-100,ANOTHER STAR,藤池　豪,バトルスクラッチ,
+R-101,CAT×CAT,高矢　魔美子,ブラックキャット,
+R-102,CAT×CAT,野島　ありさ,ホワイトキャット,
+R-103,Juicy Heaven,毛利　愛奈,誘惑のアメジスト,
+R-104,Juicy Heaven,毛利　佐智子,美しきムーンストーン,
+R-105,Juicy Heaven,西山　未来,情熱のトパーズ,
+R-106,Juicy Heaven,武藤　康子,妖艶なアクアマリン,
+R-107,CUPID ARROWS,小泉　祥子,幻惑の白き妖精,
+R-108,CUPID ARROWS,藤崎　公子,ムーンライトチャイルド,
+R-109,CUPID ARROWS,東　亜季,シルバーインパクト,
+R-110,CUPID ARROWS,武藤　崇子,246ハートブレイカー,
+R-111,CUPID ARROWS,高田　舞衣,ブルースター,O
+R-112,CUPID ARROWS,高田　愛衣,ブルームーン,O
+R-113,ROLLING GALS,中村　由梨,ローリング娘1号,
+R-114,ROLLING GALS,石川　天音,ローリング娘2号,
+R-115,ROLLING GALS,安藤　菜緒子,ローリング娘3号,
+R-116,ROLLING GALS,井川　香津美,ローリング娘4号,
+R-117,ROLLING GALS,藤田　あきこ,ローリング娘5号,
+R-118,TWISTER,葛西　和雄,灼熱の蜃気楼,
+R-119,TWISTER,持田　鈴奈,SWEET BLUES,
+R-120,TWISTER,持田　忠志,ブルーライター,
+R-121,TWISTER,牧原　大介,シューティングスター,
+R-122,TWISTER,花月　長英,花月男爵,
+R-123,TWISTER,細山　四郎,首都高時雨,
+R-124,TWISTER,伊東　愛,オールウェイズスマイル,O
+R-125,RACING STORM,来花　武昭,赤き陽炎,
+R-126,RACING STORM,金井　奏,スリットモーション,
+R-127,RACING STORM,海老川　勉,フレキシブルカラー,
+R-128,RACING STORM,根来　美知子,クレームブレイカー,
+R-129,RACING STORM,熊井　不二男,バーゲンドットコム,
+R-130,RACING STORM,立山　勝,暁の閃光,O
+R-131,COMMANDER,大隈　銀二,セナ足ギンジ,
+R-132,COMMANDER,加藤　英知,2足のヒデ,
+R-133,COMMANDER,豊橋　栄,やさ腕のサカエ,
+R-134,COMMANDER,深谷　秀,ナンパのシュウ,
+R-135,COMMANDER,平山　登,ピッケルの登,
+R-136,COMMANDER,林　宏年,虹色の旅人,
+R-137,COMMANDER,真田　勇人,スイマー勇人,
+R-138,MACHINE RANGERS,ニコラス　アンジェロ,アニメ・レッド,O
+R-139,MACHINE RANGERS,アラン　ガルニエ,シティポップ・ブルー,O
+R-140,MACHINE RANGERS,イレーナ　キスリング,コス・ピンク,O
+R-141,MACHINE RANGERS,ケネス　ゴールドバーグ,ニンジャ・グリーン,O
+R-142,MACHINE RANGERS,アニタ　ミジャル,カレー・イエロー,O
+R-143,MACHINE RANGERS,カルロス　エスパダス,センタイ・シルバー,O
+R-144,M CONNECT,松田　勝弘,宣伝番長M,O
+R-145,M CONNECT,赤畑　満,オール7,O
+R-146,M CONNECT,フェリクス　ゼフ,オニギリサウンド,O
+R-147,M CONNECT,大場　宗造,今仁,O
+R-148,M CONNECT,浅山　昇太,後アート,O
+R-149,M CONNECT,トム　ランドー,トリプルマシンガン,O
+R-150,M CONNECT,大山　修,ブーブー6,O
+R-151,M CONNECT,レッド　ベルベット,役職レッド,O
+R-152,M CONNECT,悦喜　晴矢,突撃えっき野郎,O
+R-153,Tornado '90,横山　定春,シルビアの黒豹,O
+R-154,Tornado '90,多々良　茂,グレイトフルダッド,O
+R-155,Tornado '90,沼田　忠行,麻婆先輩,O
+R-156,Tornado '90,谷町　優紀,回転独楽,O
+R-157,Tornado '90,井上　道夫,残影のテールレッド,O
+R-158,Tornado '90,葉山　徹,流線ランナー,O
+R-159,Tornado '90,大川　真由美,ビターオランジュ,O
+R-160,STRONG FORMATION,宇喜田　政史,リライアブルセンター,
+R-161,STRONG FORMATION,穂積　喜弘,オフェンスラインマン,
+R-162,STRONG FORMATION,大島　基明,熱血のクォーターバック,
+R-163,STRONG FORMATION,東郷　善正,一発勝負のフルバック,
+R-164,STRONG FORMATION,堤　拓郎,俊足のワイドレシーバー,
+R-165,STRONG FORMATION,藤咲　昌夫,機動のランニングバック,
+R-166,STRONG FORMATION,神崎　武弘,至高のラインバッカー,
+R-167,STRONG FORMATION,沼田　陽二,ディフェンシブライン,
+R-168,STRONG FORMATION,飯島　勝好,ディフェンシブバック,
+R-169,STRONG FORMATION,目黒　まさる,抜群ミドルガード,
+R-170,STRONG FORMATION,浅岡　永作,完璧ノーズガード,
+R-171,DANJI,日向　成司,荒ぶる薩摩隼人,
+R-172,DANJI,等々力　航,限界玄界灘,
+R-173,DANJI,箕輪　次郎,知られざるサーガ,
+R-174,DANJI,長田　良知,ハヤテの木葉猿,
+R-175,DANJI,井草　浩二,出島トライアル,
+R-176,DANJI,加山　睦,スチーム地獄巡り,
+R-177,DANJI,吉川　猛,猛々しいシロクマ,O
+R-178,DANJI,澤頭　義男,疾風のアグー,O
+R-179,RINGS,宮沢　宗武,孤高のジャッカル,
+R-180,RINGS,岸　五朗,鮮烈のスライドテール,
+R-181,RINGS,新居　陽介,流星の陽介,
+R-182,RINGS,浜田　悟史,チューン屋のハマダ,
+R-183,RINGS,村上　洋子,シルバー天使,
+R-184,RINGS,飯島　高文,音速の白い悪魔,
+R-185,RINGS,後藤　昭博,修羅,
+R-186,RINGS,三田村　仁,九官鳥,
+R-187,RINGS,村上　龍行,虹色ドミノ,
+R-188,A.S.F.,秋原　賢二,新環状の大御所,
+R-189,A.S.F.,椎名　政伸,愛と幻想のエロチカ,
+R-190,A.S.F.,星　恒一,スプリングメモリー,
+R-191,A.S.F.,小松　佐助,わだつみの嵐,O
+R-192,A.S.F.,筒井　吉隆,微睡のドーマウス,O
+R-193,A.S.F.,能口　萌,ダンシングヒロイン,
+R-194,A.S.F.,新井　裕子,ダンシングラビット,O
+R-195,TOKIO JUNGLE,馬場　博史,MJ6feet6,
+R-196,TOKIO JUNGLE,井尾那　満,イオ,
+R-197,TOKIO JUNGLE,本多　恭司,漆黒の熱い風,
+R-198,TOKIO JUNGLE,流川　利樹,白狐,
+R-199,TOKIO JUNGLE,水島　勝秋,ソルティドッグ,
+R-200,TOKIO JUNGLE,東　憲明,スライドフリーク,
+R-201,TOKIO JUNGLE,高江　幸次,走るブルーウェイヴ,
+R-202,KNIFE AND FORKS,三浦　雅之,無敵のフルコース,
+R-203,KNIFE AND FORKS,香川　勉,テーブルマナー,
+R-204,KNIFE AND FORKS,木島　修平,横浜のロマネコンティ,
+R-205,KNIFE AND FORKS,西谷　雄二,黄金のクリームソース,
+R-206,KNIFE AND FORKS,佐伯　裕之,深夜のア・ラ・モード,
+R-207,KNIFE AND FORKS,ピエール　田中,四つ星ドライバー,
+R-208,KNIFE AND FORKS,山崎　徹,源平のマリアージュ,O
+R-209,CHANGING STAGE,浅川　幸秀,夢幻の不死鳥,
+R-210,CHANGING STAGE,田村　直弥,ライジングベア,
+R-211,CHANGING STAGE,奥山　晃,フラッシュブラッド,
+R-212,CHANGING STAGE,百合　一成,ピンクリリー,
+R-213,CHANGING STAGE,桃井　優,可憐なモンスター,
+R-214,CHANGING STAGE,遠野　弘道,デジタルキラー,
+R-215,CHANGING STAGE,奥井　清一郎,パーフェクトビギナー,
+R-216,NAYUTA,西澤　昇,アルティメットコア,
+R-217,NAYUTA,末森　裕太,ミラクルトリックスター,
+R-218,NAYUTA,尾崎　義則,ショットダウンマイスター,
+R-219,NAYUTA,風間　新平,ステップアップウィナー,
+R-220,NAYUTA,山本　太,スリップスラップ,
+R-221,NAYUTA,伊藤　幸夫,ラッキープライム,
+R-222,NAYUTA,鈴木　孝政,スマイリーグラップラー,
+R-223,NAYUTA,水本　祐樹,オーバーディフェンス,
+R-224,NAYUTA,岡本　直大,ハーディワーカー,
+R-225,COOL ENERGY,佐古　宗太,インセンティブジョーカー,
+R-226,COOL ENERGY,郡　祐一,マンハッタンドリーマー,
+R-227,COOL ENERGY,熱川　照之,漆黒のトレーダー,
+R-228,COOL ENERGY,外崎　達郎,マージンゼロ,
+R-229,COOL ENERGY,新垣　信也,復讐のホワイトナイト,
+R-230,FAMILY BUSINESS,広畑　真輔,グレイテストパパ,
+R-231,FAMILY BUSINESS,広畑　美沙,ビッグマム,
+R-232,FAMILY BUSINESS,高原　美鈴,イノセントレディ,
+R-233,FAMILY BUSINESS,高原　誠,パーフェクトダーリン,O
+R-234,FAMILY BUSINESS,広畑　沙輔,クイックキッド,
+R-235,ROAD CONCERTO,都築　弘道,星雲の協奏曲,
+R-236,ROAD CONCERTO,九坊　允,悔恨の円舞曲,
+R-237,ROAD CONCERTO,元辻　愛,怒りの変奏曲,
+R-238,ROAD CONCERTO,折本　裕志,挑発の行進曲,
+R-239,ROAD CONCERTO,広川　晴樹,銀河の交響曲,O
+R-240,ROAD CONCERTO,須田　千恵美,高揚の幻想曲,O
+R-241,Aquarium,羽村　基一,追憶のヒポクラテス,
+R-242,Aquarium,吹石　麻衣子,イノセントルージュ,
+R-243,Aquarium,熊田　哲雄,熱狂トリッパー,
+R-244,Aquarium,崔　正弘,終わりなきニューウェーブ,
+R-245,Aquarium,本居　夏樹,禁断のトリプルアクセル,
+R-246,Aquarium,緑川　智紀,バブリーキング,
+R-247,HARISEN Chop,加藤　正義,西長堀ジャスティス,
+R-248,HARISEN Chop,小林　国治,波除ポリティクス,
+R-249,HARISEN Chop,中西　武将,天保ジェネラル,
+R-250,HARISEN Chop,中村　英雄,大浜ブレイブ,
+R-251,HARISEN Chop,伊豆　勝利,堺ビクトリー,
+R-252,HARISEN Chop,大久保　真実,津守トゥルー,
+R-253,HARISEN Chop,牧村　勇気,汐見橋カウボーイ,
+R-254,TOP LEVEL,鈴木　健二,ターマック鈴木,
+R-255,TOP LEVEL,若林　麻紀,幻の美女,
+R-256,TOP LEVEL,本木　聖子,悲劇の紅い涙,
+R-257,TOP LEVEL,薪稔　富雄,伝説の作業員,
+R-258,TOP LEVEL,中島　友子,ミッドナイトスルー,
+R-259,TOP LEVEL,片山　恵里佳,目覚めの新星,O
+R-260,Free Way,小山　晴彦,蒼い彗星,
+R-261,Free Way,宇津井　忠志,オレンジヘッド,
+R-262,Free Way,山田　明,シルバーフォックス,
+R-263,Free Way,飛山　一郎,アルティメットキラー,
+R-264,Free Way,三木本　高次,クリスタルナイツ,
+R-265,Free Way,福井　章弘,アクセルジャンキー,
+R-266,Free Way,和田　結城,ハイウェイボンバー,
+R-267,Free Way,中野　健二,ピュアホワイト,O
+R-268,Be Legend,柿岡　裕嗣,音速のナポレオン,
+R-269,Be Legend,小木　克哉,光速の五右衛門,
+R-270,Be Legend,守口　有太,かりそめの孔明,
+R-271,Be Legend,森山　千夏,気まぐれジャンヌ・ダルク,
+R-272,Be Legend,北見　俊介,進撃ジンギスカン,
+R-273,Be Legend,立木　祐介,乱れ咲きコロンブス,
+R-274,Be Legend,江田島　康久,過激なニュートン,
+R-275,UNLIMITED,北方　秀平,キリングマシーン,
+R-276,UNLIMITED,高瀬　博貴,さすらいのMONSTER,
+R-277,UNLIMITED,丹波　義行,スコッチ特急,
+R-278,UNLIMITED,鳥海　直之,イエスマン　ナオ,
+R-279,UNLIMITED,園田　俊,湾岸の大魔人,
+R-280,UNLIMITED,久谷　恭司,まむしのキョウ,
+R-281,UNLIMITED,小西　圭,スリーピング　ケイ,
+R-282,UNLIMITED,藤崎　泰,アスファルトの嘆き,
+R-283,UNLIMITED,由良　三郎,大和三郎,
+R-284,Neo Limited,加藤　継晴,レモンフレーバー,
+R-285,Neo Limited,加地矢　芳星,軽量エレキテル,
+R-286,Neo Limited,日立　丈弥,ポエマー日立,
+R-287,Neo Limited,野田島　和太郎,男・野田島,
+R-288,Neo Limited,南　康一,波乱の木曜日,
+R-289,Neo Limited,元川　美朗,パーティードレス,
+R-290,Neo Limited,本田　正吉,ポン吉,
+R-291,2Limit,羽村　尚也,紅蓮の牙,
+R-292,2Limit,美津川　康,エクセレントプレジャー,
+R-293,2Limit,トニー　鷺沢,ソリッドシャーク,
+R-294,2Limit,三山　覚,ペイントレイン,
+R-295,2Limit,杉田　洋子,ブランドハンター,
+R-296,GNK Racing,堀越　瑞軌,リターン・オブ・ゾロ,O
+R-297,GNK Racing,野口　謙太郎,ぐちけん,O
+R-298,GNK Racing,大塚　優汰郎,坂上の新風,O
+R-299,GNK Racing,小川　孝光,ワイルドシリンダー,O
+R-300,GNK Racing,原田　康作,バウンドドッグ,O
+R-301,GNK Racing,城間　大祐,華麗なるイマジン,O
+R-302,CLUB GARUDA,矢満田　仁,サンダーロード,O
+R-303,CLUB GARUDA,吉原　小太郎,バッドボンバー,O
+R-304,CLUB GARUDA,堀井　歩,アンチ・ロードキラー,O
+R-305,CLUB GARUDA,古巣　慈英,デルタ・ブルータス,O
+R-306,CLUB GARUDA,崩田　新斗,バニシング・ポイント,O
+R-307,CLUB GARUDA,時積　佑,スポーツスレイヤー,O
+R-308,CLUB GARUDA,時任　龍次,カミカゼの龍,O
+R-309,HASEGAWA'S ANGELS,長谷川　亜依,スケールモデルの亜依,O
+R-310,HASEGAWA'S ANGELS,長谷川　舞依,キャラクターモデルの舞依,O
+R-311,HASEGAWA'S ANGELS,長谷川　美依,フィギュアの美依,O
+R-312,SPEED MASTER,大河原　大輔,満月の狂気,
+R-313,SPEED MASTER,秋山　哲郎,ファーストビート,
+R-314,SPEED MASTER,岩崎　彩子,ブラックエンジェル,
+R-315,SPEED MASTER,小山　麗奈,パールホワイトキス,
+R-316,SPEED MASTER,高山　真一郎,ミッドナイトホークス,
+R-317,SPEED MASTER,柳下　進,屈辱請負人,
+R-318,SPEED MASTER,本間　涼子,レディ　ホワイト,
+R-319,SPEED MASTER,亀山　敦也,無名のヒーロー,
+R-320,SPEED MASTER,山口　京子,アングリープリンセス,
+R-321,SPEED MASTER,宮部　昭憲,イロモノ横丁,
+R-322,ASIAN AGES,王　永輝,黒龍,
+R-323,ASIAN AGES,ソン　ホジュン,光虎,
+R-324,ASIAN AGES,キム　チョンオン,闇虎,
+R-325,ASIAN AGES,李　星辰,黄龍,
+R-326,ASIAN AGES,サルマン　カプール,象皇,
+R-327,ASIAN AGES,イム　ミニョン,風虎,
+R-328,ASIAN AGES,張　麗華,桃龍,
+R-329,ROYAL DREAMS,ウィンストン,異国のプリンス,O
+R-330,ROYAL DREAMS,オリビア,異国のプリンセス,O
+R-331,ROYAL DREAMS,セバスチャン,忠義のバトラー,O
+R-332,ROYAL DREAMS,シャーロット,華麗なメイド,O
+R-333,ROYAL DREAMS,メアリ,内気なメイド,O
+R-334,ROYAL DREAMS,トーマス,忠実なフットマン,O
+W-001,WANDERER,高柳　真史,不死身の道化師,
+W-002,WANDERER,小野田　裕巳,マスターポジション,
+W-003,WANDERER,具志堅　亮,サイレントバーバリアン,
+W-004,WANDERER,寺西　房夫,緑の野生児,
+W-005,WANDERER,明石　嵐馬,嵐のストリーマー,
+W-006,WANDERER,鏑木　春雄,ガレージハルオ,
+W-007,WANDERER,星野　さとし,下北沢2000 cc,
+W-008,WANDERER,応天門　広道,瀬戸内の麺匠,O
+W-009,WANDERER,緑野　麻央,デビルロードラン,O
+W-010,WANDERER,西山　麻美,孤独なニヒリスト,
+W-011,WANDERER,内海　巧,ハマの白豹,
+W-012,WANDERER,フレデリック　ナセリ,ナポリの風,O
+W-013,WANDERER,金城　寿彦,パーフェクト　レボリューション,
+W-014,WANDERER,勝又　啓就,ツッコミブレイカー,
+W-015,WANDERER,神保　翔一,湘南アフェアー,
+W-016,WANDERER,遠藤　敬二,ジェットスケーター,
+W-017,WANDERER,小野　正治,テクニシャン小野,
+W-018,WANDERER,石井　智,アンバランス石井,
+W-019,WANDERER,吉嵜　智洋,ラストフライト,
+W-020,WANDERER,千葉　洋介,悲劇のマッターホルン,
+W-021,WANDERER,谷村　真樹,焦燥の迅姫,
+W-022,WANDERER,門舛　敬一,辻斬りギャンブラー,
+W-023,WANDERER,安井　志穂,ラズベリーキッス,
+W-024,WANDERER,真鍋　晃,クラフトマン真鍋,
+W-025,WANDERER,琢磨　治,ゴールドライセンス,
+W-026,WANDERER,樋口　朋康,不屈のアレキサンダー,
+W-027,WANDERER,川原　敏郎,波乗り海坊主,
+W-028,WANDERER,中矢　雄介,スノーダンサー,
+W-029,WANDERER,新田　康雄,熊本ナンバー,O
+W-030,WANDERER,増田　まみ,最強まぁみん,O
+W-031,WANDERER,広崎　弓枝,ゴーグルニヤリ,O
+W-032,WANDERER,堂島　ジェーン,シークレットブレンド,O
+W-033,WANDERER,長内　優,優しき鑑別師,O
+W-034,WANDERER,山越　歩,山男,O
+W-035,WANDERER,海鳴　水樹,首都高のトビウオ,O
+W-036,WANDERER,積木　心,ヘルパーロボ,O
+W-037,WANDERER,高橋　裕太,レッドストーム,O
+W-038,WANDERER,森元　一星,ルーレット野郎V3,
+W-039,WANDERER,福本　孝介,ロンリーウルフ,
+W-040,WANDERER,池尻　宏次,鋼の三角定規,
+W-041,WANDERER,神保　一,ゴッドイヤー,
+W-042,WANDERER,増山　尚也,ゴースト　ソウル,
+W-043,WANDERER,永塚　正彦,N塚氏,
+W-044,WANDERER,武藤　英二,ファイヤーレジェンド,
+W-045,WANDERER,市川　朋宏,FDともさん,
+W-046,WANDERER,根本　祥,地方のリッチマン,O
+W-047,WANDERER,松田　栄治,豊洲の韋駄天,O
+W-048,WANDERER,小久保　雄太,サムシング・ファン,O
+W-049,WANDERER,琴平　ジョージ,シックな疾駆,O
+W-050,WANDERER,望月　波丸,ハイドロドリフト忍者,O
+W-051,WANDERER,深沢　莉子,レディイナズマ,O
+W-052,WANDERER,一ツ橋　大樹,ワンブリッジ軍曹,O
+W-053,WANDERER,馬場　静亜,ミスティック・バーバー,O
+W-054,WANDERER,八重樫　靖也,忠節の騎士,
+W-055,WANDERER,三方原　道明,火曜日の大先生,O
+W-056,WANDERER,黒羽　霧子,スピリット　霧子,O
+W-057,WANDERER,潘　一人,光速の運び屋,O
+W-058,WANDERER,五木　弘毅,トゥルースライド,
+W-059,WANDERER,高崎　俊樹,ハードウェポン,
+W-060,WANDERER,内田　孝,嘆きのプルート,
+W-061,WANDERER,福田　達也,真夜中の銀狼,
+W-062,WANDERER,後藤　良太,べっこう仮面,O
+W-063,WANDERER,本条　敏道,湾岸シェリフ,O
+W-064,WANDERER,灰谷　一矢,スペードのK,O
+W-065,WANDERER,坪内　翔一,川越のハンサム,O
+W-066,WANDERER,斎城　愛実,横浜のキューティ,O
+W-067,WANDERER,大期　良一,花売り太郎,O
+W-068,WANDERER,黒崎　雅美,サイバー・デイム,O
+W-069,WANDERER,舘　渡,白いカリスマ,
+W-070,WANDERER,空御寺　俊彦,白銀の貴公子,
+W-071,WANDERER,久永　一,リベンジアイズ,
+W-072,WANDERER,岩崎　基矢,無双帝,
+B-001,BOSS,小早川　悟,ローリングマスター,
+B-002,BOSS,坂本　桐字,裏切りのジャックナイフ,
+B-003,BOSS,佐々木　士郎,ブラッドハウンド,
+B-004,BOSS,川越　清美,ミッドナイトローズ,
+B-005,BOSS,黒江　世津子,ユウウツな天使,
+B-006,BOSS,黒崎　雅路,紅童子,
+B-007,BOSS,黒崎　政則,金色般若,
+B-008,BOSS,黒崎　雅和,鉄翁,
+B-009,BOSS,真山　健一,闇天狗,
+B-010,BOSS,久遠　ひかる,久遠のポラリス,O
+B-011,BOSS,久遠　ひかる,久遠のポラリス,O
+B-012,BOSS,大谷　麻子,トランスドライブ,O
+B-013,BOSS,アチョーギ　しげる,プレイフルジェントルマン,O
+B-014,BOSS,甲斐　大成,シュワシュワストロング,O
+B-015,BOSS,山口　将,チリツモ戦士,O
+B-016,BOSS,林原　美津江,12時過ぎのシンデレラ,
+B-017,BOSS,兼山　大吾,不動心の龍馬,
+B-018,BOSS,大塚　一二,ルシファー大塚,
+B-019,BOSS,竹中　敦也,スティールハート,
+B-020,BOSS,芦部　芳郎,砂塵の帝王,
+B-021,BOSS,天地　一美,ダーティーフォックス,
+B-022,BOSS,白石　務,クレイジーモンキー,
+B-023,BOSS,黒崎　雅路,紅童子,
+B-024,BOSS,黒崎　政則,金色般若,
+B-025,BOSS,黒崎　雅和,鉄翁,
+B-026,BOSS,瀬戸脇　湊,ライジングシーマン,O
+B-027,BOSS,池村　広秋,愛のトルナード,O
+B-028,BOSS,ニコル　ボードリエ,噂のライター,O
+B-029,BOSS,魚住　静太,ダイングスター,
+B-030,BOSS,内藤　健二,追撃のテイルガンナー,
+B-031,BOSS,緒方　明子,シャドウアイズ,
+B-032,BOSS,君島　陽平,夢見の生霊,
+B-033,BOSS,宮川　雷斗,紅の悪魔,
+B-034,BOSS,蔡　偉英,沈黙のカシオペア,
+B-035,BOSS,風間　鷲人,紺碧のスナイパー,
+B-036,BOSS,笹原　暁音,夜明けのガーネット,
+B-037,BOSS,ジェイムス　ビギンズ,スカールバレット,
+B-038,BOSS,藤巻　直樹,NAMAHAGE,
+B-039,BOSS,城崎　アン,マネードリーム,O
+B-040,BOSS,堺　一徹,一徹ストレート,O
+B-041,BOSS,久遠　ひかる,久遠のポラリス,O
+B-042,BOSS,久遠　ひかる,久遠のポラリス,O
+B-043,BOSS,健人　ハワード,スネークアイズ,O
+B-044,BOSS,健人　ハワード,スネークアイズ,O
+B-045,BOSS,天王寺　蓮,迅帝,O
+B-046,BOSS,天王寺　蓮,迅帝,O
+B-047,BOSS,久遠　鉄也,機光王,O
+B-048,BOSS,RECORD:0,RECORD:0,O
+B-049,BOSS,RECORD:01,RECORD:01,O
+B-050,BOSS,RECORD:X,RECORD:X,O
+B-051,BOSS,不明,？？？,
+Guest-001,WANDERER,輪堂　千速,神速なる幌馬車の御者,O
+Guest-002,WANDERER,狂蘭　メロコ,虹渡る異世界トラベラー,O

@@ -1,0 +1,142 @@
+﻿R-Code,Team Name,Display Name,Real Name,Nickname,Role,Team,Chassis Code,Drivetrain,Game,Bio,Plate,Livery Description,Color Primary,Color Secondary,Color Accents,Relationships,Engine,Suspension,Transmission,Chassis,Primary BGR,,,Secondary BGR,,
+R-001,ROLLING GUY,ローリング野郎１号,小早川 悟,滚动小子1号,队长,ROLLING GUY,AE86L,FR,Tokyo Xtreme Racer,主要在专业封闭赛道上磨练技艺，其激进强悍的狂暴驾驶风格即便换到首都高舞台也丝毫未变。,,Two-tone,Dark Grey,Red,,小早川哲（ROLLING GUY）的哥哥,03,03,02,02,0F,0F,0F,00,00,C1
+R-002,ROLLING GUY,ローリング野郎２号,小早川 哲,滚动小子2号,队员,ROLLING GUY,AE86T,FR,Tokyo Xtreme Racer,与86车型惯常的漂移跑法截然相反，酷爱扎实稳健的抓地行车走线。其亲兄长正是车队现任队长。,,Two-tone,White,Black,,小早川悟（ROLLING GUY）的弟弟,00,00,00,00,AA,C1,C1,19,19,19
+R-003,ROLLING GUY,ローリング野郎３号,今井 勉,滚动小子3号,队员,ROLLING GUY,AE86T,FR,Tokyo Xtreme Racer,偏爱华丽张扬的驾驶动作，最享受在出弯的电光石火间将对手一刀封喉的致命快感。,,Two-tone,Orange,Black,,,00,00,00,00,0A,3B,8E,19,14,0F
+R-004,ROLLING GUY,ローリング野郎４号,三宅 晴彦,滚动小子4号,队员,ROLLING GUY,AE86L,FR,Tokyo Xtreme Racer,曾在横滨码头港区苦练甩尾绝技，但在狭窄曲折的首都高弯道上尚未能彻底施展开拳脚。,,Two-tone,Light Green,Grey,,,00,00,00,00,52,99,67,23,23,19
+R-005,CURVING EDGE,首都高のプリンス,藤間 孝昭,首都高王子,队长,CURVING EDGE,DC2,FF,Tokyo Xtreme Racer,家财万贯的超级富豪。到底在车身改装上砸进了多少巨额资金，连他自己都早已算不清账目。,,Black Hood,White,Black,Red,,02,01,01,01,AF,BE,BE,00,00,00
+R-006,CURVING EDGE,灼熱の宏治,日比野 宏治,灼热宏治,队员,CURVING EDGE,EK9,FF,Tokyo Xtreme Racer,以将轮胎滑移量抑制在绝对极限的最优走线为个人座右铭，至今每夜依然在这片沥青路上精进不辍。,,,Red,,,,00,00,00,00,14,00,AD,00,00,00
+R-007,CURVING EDGE,25時の疾風,渡 聡一郎,25点的疾风,队员,CURVING EDGE,DC2,FF,Tokyo Xtreme Racer,神出鬼没，来去无踪；夜色中能有幸亲眼目击其真正行车风采的车手屈指可数。,,,Silver,,,,00,00,00,00,7D,73,69,00,00,00
+R-008,CURVING EDGE,プロフェッサー・タカ,海内 貴亜紀,高教授,队员,CURVING EDGE,EK9,FF,Tokyo Xtreme Racer,一边同顽疾殊死抗争一边在赛道驰骋的学者型车手；其严谨的行车物理学理论在全队上下备受敬重。,,Modified Hood,Blue,,,深受全队所有成员的深切敬重,00,00,00,00,5F,0A,0A,00,00,00
+R-009,CURVING EDGE,サンダーフレアー,渡辺 典子,雷霆闪光,队员,CURVING EDGE,DC2,FF,Tokyo Xtreme Racer,虽在爱车改装上一掷千金，改后车速反而不如原厂素车，如今夜夜在方向盘前流着悔恨泪水死磕。,,,Yellow,,,,00,00,00,00,09,A2,B7,00,00,00
+R-010,SS LIMITED,元祖一番星,高橋 京,元祖头号之星,队长,SS LIMITED,JZX100,FR,Tokyo Xtreme Racer,一心剑指首都高最速顶点。行车风格干净利落且极具修养，绝不做出任何鲁莽危险的恶意别车。,,,White,,,,03,01,01,01,A5,C1,C1,00,00,00
+R-011,SS LIMITED,ヘブンズ４ドア,木村 純一,天堂四门,队员,SS LIMITED,XE10,FR,Tokyo Xtreme Racer,对四门轿车抱有坚如磐石的执念。为了窥探隐藏在绝对极速彼端的真实风景，今夜依然全力飞驰。,,,Grey,,,,02,01,00,02,19,19,19,00,00,00
+R-012,SS LIMITED,ブラックレイン,杉山 三平,黑色暴雨,队员,SS LIMITED,Y33C,FR,Tokyo Xtreme Racer,与其说其跑法有多快，倒不如说其座驾散发的骇人凶险气场让任何对手都不敢轻易接下战帖。,,,Black,,,,02,00,00,01,0F,0F,0F,00,00,00
+R-013,SS LIMITED,首都高の赤い閃光,江口 高広,首都高红色闪光,队员,SS LIMITED,Y33G,FR,Tokyo Xtreme Racer,“因玩车改装而破产”的代名词；遗憾的是，无论砸进多少银子，其控车手艺似乎从未见半点长进。,,,Red,,,,02,00,00,01,23,00,9B,00,00,00
+R-014,SS LIMITED,スポーツカー殺し,嶋本 明,跑车杀手,队员,SS LIMITED,Y33G,FR,Tokyo Xtreme Racer,早年曾因遭受两门跑车的强行别车而酿成惨烈车祸，自此对所有双门运动跑车怀揣刻骨敌意。,,,Silver,,,对所有跑车型轿跑抱有刻骨铭心的敌意,02,00,00,01,64,60,60,00,00,00
+R-015,SS LIMITED,本家一番星,山田 寅吉,正统头号之星,队员,SS LIMITED,Y33C,FR,Tokyo Xtreme Racer,与队长高桥自早年起便结下了不解之缘。比起赛道上的任何人，他都更加深爱这片深夜大道与极速。,,,Dark Grey,,,与队长高桥京（SS LIMITED）有着多年割舍不断的挚友渊源,02,00,00,01,19,19,19,00,00,00
+R-016,ELEGANT WILD,３００マイルの赤いルビー,松山 弓子,300英里红宝石,队长,ELEGANT WILD,SW20,MR,Tokyo Xtreme Racer,身兼独立改装师的巾帼车手；经常出没于专业赛车场磨砺技术，骨子里流淌着好胜绝伦的傲骨。,,Gloss red finish.,Red,,,行使实际领袖职权，但并不苛求队员盲从忠诚,02,01,01,02,0A,00,91,00,00,00
+R-017,ELEGANT WILD,ディープ・グリーン,錦 利隆,深绿,队员,ELEGANT WILD,S13,FR,Tokyo Xtreme Racer,二手车行资深销售。对汽车机械无所不通，仅凭目测对手的过弯姿态便能准确倒推其全套改装参数。,,Two-tone appearance.,Green,Black trim,,以机械大师的锐利眼光观察众人；将高速公路视作二手车展销场,02,00,00,00,1E,3C,05,19,19,19
+R-018,ELEGANT WILD,ホワイトレボリューション,金 寿彦,白色革命,队员,ELEGANT WILD,JZA80,FR,Tokyo Xtreme Racer,比起纯粹的时间快慢，更执着于行车轨迹的美感。哪怕赢下比赛，若姿态不够潇洒飘逸他也绝不认可。,,Clean white appearance.,White,,,,02,00,00,00,B4,B4,B4,00,00,00
+R-019,ELEGANT WILD,ホストマンハット,水無月 肇,公关帽男,队员,ELEGANT WILD,NA2,MR,Tokyo Xtreme Racer,自诩为新宿歌舞伎町男公关俱乐部的“二当家”。不过方向盘上的操控水平显然远不如嘴上功夫。,,Two-tone appearance.,Silver,Black top,,借助车队名气在新宿歌舞伎町男公关界提升声望,01,00,00,00,64,5F,5A,14,14,14
+R-020,ELEGANT WILD,ブラックシンデレラ,佐藤 みゆき,黑色灰姑娘,队员,ELEGANT WILD,RPS13,FR,Tokyo Xtreme Racer,经常活跃于封闭赛道上的专业时装模特。在首都高上的华丽惊艳亮相曾掀起极大的轰动浪潮。,,Metallic dark finish.,Dark Grey,,,跑高速公路纯粹是为了在时装模特圈树立身价标签,02,02,00,00,14,14,14,00,00,00
+R-021,ELEGANT WILD,アンフィニ・イエロー,松田 勘五郎,无限黄,队员,ELEGANT WILD,FC,FR,Tokyo Xtreme Racer,坚守“非黄色座驾不买”的信条二十余载。在首都高上资历虽深，但岁月不饶人，体能似乎已逼近极限。,,Trademark yellow.,Yellow,,,,02,01,00,02,00,96,C1,00,00,00
+R-022,MAX RACING,ブラッディ・ローズ,阿修羅 面彦,血色玫瑰,队长,MAX RACING,JZX100,FR,Tokyo Xtreme Racer,平日里脾气温和谦逊，但一旦握住方向盘，便会化身为作风凶悍残暴的公路掠食狂魔。,,Gloss red finish.,Red,,,,03,02,01,01,0A,00,6E,00,00,00
+R-023,MAX RACING,ゴールデン・ビースト,小泉 昌樹,金色野兽,队员,MAX RACING,JZX100,FR,Tokyo Xtreme Racer,盲目狂热地压榨引擎马力极限，把整条性命都豪赌在漫长直道上的后程极速爆发之中。,,Gold/bronze finish.,Gold,,,,02,00,00,00,28,69,87,00,00,00
+R-024,MAX RACING,クレージー・フーリガン,飯山 大輔,狂暴暴徒,队员,MAX RACING,Y33C,FR,Tokyo Xtreme Racer,对笨重车身实施了极其彻底的极致偷轻，使其硕大轿车展现出匪夷所思的惊人轻灵敏捷姿态。,,Vibrant purple finish.,Purple,,,,02,00,00,02,4B,05,35,00,00,00
+R-025,MAX RACING,青影,和田 貴樹,蓝色阴影,队员,MAX RACING,XE10,FR,Tokyo Xtreme Racer,受“FREE WAY”车队中亲弟弟的影响踏入车圈。与天生开朗活泼的外表相反，行车风格静谧沉稳。,,Clean blue finish.,Blue,,,和田结城（FREE WAY）的哥哥；受其影响投身街头飙车界,02,02,01,02,5F,0A,0A,00,00,00
+R-026,MAX RACING,死の黒豹,田中 正輝,死亡黑豹,队员,MAX RACING,XE10,FR,Tokyo Xtreme Racer,原在横滨周边征战0-400米直线加速赛，后转投首都高；目前仍对多弯环形赛道的底盘调校感到摸不着头脑。,,Dark metallic grey finish.,Dark Grey,,,,03,01,01,01,19,19,19,00,00,00
+R-027,MAX RACING,高速のブルーサンダー,高岡 正典,高速蓝雷,队员,MAX RACING,Y33G,FR,Tokyo Xtreme Racer,展现出大马力旗舰轿车与生俱来的震撼压迫感，无奈底盘悬挂终究无法驾驭发动机那狂暴的输出。,,Clean dark blue finish.,Dark Blue,,,,03,02,02,02,3F,0A,0A,00,00,00
+R-028,MAX RACING,高速のホワイトブレード,菅野 竜太,高速白刃,队员,MAX RACING,Y33G,FR,Tokyo Xtreme Racer,信奉“大能兼小”的人生格言，偏要在狭隘急促的首都高立体公路上驾驭重型巨兽攻城拔寨。,,Clean white finish.,White,,,,02,02,02,02,BE,BE,BE,00,00,00
+R-029,MAX RACING,高速のブラッドレイン,宮下 明宏,高速血雨,队员,MAX RACING,Y33G,FR,Tokyo Xtreme Racer,随时随地恭候挑战！开着笨重大轿车亲手把轻巧敏捷的小跑车斩落马下是他唯一的生存寄托。,,Magenta/pinkish-red finish.,Pink,,,,02,02,02,02,23,00,6E,00,00,00
+R-030,DIAMOND IMAGE,イナズマシフトの拓也,萩原 拓也,闪电换挡拓也,队长,DIAMOND IMAGE,AE86T,FR,Tokyo Xtreme Racer,凭借在山路上磨练出的刁钻技艺强攻首都高！其座驾亦经过独门秘方的高精度深度特调。,,Classic panda paint scheme,White,Black,Blue,,04,03,03,03,B9,B9,B9,1E,1E,1E
+R-031,DIAMOND IMAGE,ローン・ウルフ,石井 学,孤狼,队员,DIAMOND IMAGE,AE86L,FR,Tokyo Xtreme Racer,为了改装爱车而债台高筑的大学生。距离全盘个人信用卡破产清算仅仅一步之遥！,,Clean dark blue appearance.,Dark Blue,,,在经济处境上与同大学的中西飞鸟（DIAMOND IMAGE）形成强烈反差,03,02,03,03,40,08,08,40,08,08
+R-032,DIAMOND IMAGE,春巻きイツキ,大内 一樹,春卷一树,队员,DIAMOND IMAGE,SW20,MR,Tokyo Xtreme Racer,人生最大乐趣莫过于感受过弯时的强悍横向重力；绝不依赖动力马力，胜负全在一弯之间见分晓！,,Features aftermarket wheels with red accents.,Black,,Red,,02,02,02,03,03,03,03,00,00,00
+R-033,DIAMOND IMAGE,銀色の弾丸,門松 淳一,银色子弹,队员,DIAMOND IMAGE,RPS13,FR,Tokyo Xtreme Racer,凭借得天独厚的绝佳节奏感精准驭车；在他的操盘下，整台车仿佛在车流缝隙间优雅起舞。,,Clean silver styling.,Silver,,,,02,02,02,02,8C,7E,76,00,00,00
+R-034,DIAMOND IMAGE,環状のエアブレード,中西 大樹,环状线气刃,队员,DIAMOND IMAGE,DC2,FF,Tokyo Xtreme Racer,在船舶仪器制造厂勤工俭学；有传言称其爱车中控台上赫然搭载着货真价实的大型舰载雷达！,,Clean dark blue appearance.,Dark Blue,,,中西翔（R.GANG）的哥哥，且与中西飞鸟（DIAMOND IMAGE）有着亲近渊源,02,02,02,02,23,00,00,00,00,00
+R-035,DIAMOND IMAGE,イエローエンジェル,中西 飛鳥,黄色天使,队员,DIAMOND IMAGE,EK9,FF,Tokyo Xtreme Racer,大学摄影社团的女大学生；在公路旁长年拍摄深夜漂移照片的过程中，最终彻底觉醒了自己的竞速天性。,,Vibrant yellow finish.,Yellow,,,与中西大树（DIAMOND IMAGE）关系亲密的同族亲属,02,02,02,02,0C,73,A5,00,00,00
+R-036,FINE DRIVE,紅い流星,池谷 悠一,红色彗星,队长,FINE DRIVE,S15,FR,Tokyo Xtreme Racer,以出神入化的控车技术广受赞誉；内心怀揣着将来进军职业赛车界的宏大志向。,,Gloss red finish with gold aftermarket wheels.,Red,,,,02,02,03,02,19,00,82,00,00,00
+R-037,FINE DRIVE,シルベスタ,渡辺 陽一,银白星,队员,FINE DRIVE,S13,FR,Tokyo Xtreme Racer,近来因始终遇不到旗鼓相当的对手而略显消沉；今夜依然在长路上游弋，苦寻能令自己热血沸腾的宿敌。,,Two-tone appearance with dark lower trim.,Yellow,Black,,,02,02,02,02,14,BE,DC,0F,0F,0F
+R-038,FINE DRIVE,地獄のドリフター,鈴木 敏光,地狱漂移者,队员,FINE DRIVE,S13,FR,Tokyo Xtreme Racer,曾常年征战崇山峻岭，数年前转战此地；其控车滑移漂移的技术堪称天下独步。,,Two-tone appearance with multi-spoke wheels.,Green,Black,,,01,02,01,02,28,3C,1E,28,28,28
+R-039,FINE DRIVE,下北沢2000cc,星野 さとし,下北泽2000cc,队员,FINE DRIVE,S13,FR,Tokyo Xtreme Racer,对经典S13车身忠贞不渝！这已是他经手的第三台车，这股狂热程度早已步入骨灰级发烧友之列！,,Distinctive light purple/lavender paint scheme.,Purple,,,队内对经典S13老车身平台的终极死忠车迷,01,02,01,01,A0,6E,82,A0,6E,82
+R-040,FINE DRIVE,ドリフト・ベビー,内村 克典,漂移宝贝,队员,FINE DRIVE,S14,FR,Tokyo Xtreme Racer,自诩为“2000cc排量最强之人”。平日里沉默寡言，但只要话题涉及汽车便会瞬间判若两人。,,Gloss red finish with aftermarket aero kit.,Red,,,内心深处隐藏着对汽车如痴如醉的狂热执念,02,02,02,02,0A,00,96,00,00,00
+R-041,FINE DRIVE,ファンキーモンキー,吉田 昭紀,放克猴子,队员,FINE DRIVE,S14,FR,Tokyo Xtreme Racer,绝不承认前驱或四驱是真正的车，坚称唯有前置后驱（FR）方称正统，并狂妄宣称近一年来未尝一败。,,Dark metallic finish.,Dark Grey,,,前置后驱（FR）布局的坚定原教旨拥趸,02,01,02,01,0A,0A,0A,00,00,00
+R-042,FINE DRIVE,天然ソルジャー,西野 貴志,天生战士,队员,FINE DRIVE,S14,FR,Tokyo Xtreme Racer,起初对街头飙车毫无兴趣，但随着时间推移，已彻底被深夜驰骋的非凡乐趣所深深捕获。,,Clean light blue appearance.,Light Blue,,,正逐步领略并沉迷于深夜飙车的极致魅力,01,00,02,01,E1,9B,5F,00,00,00
+R-043,FINE DRIVE,ファイヤー・バード,黒沢 敏伸,火鸟,队员,FINE DRIVE,S14,FR,Tokyo Xtreme Racer,行事低调内敛地攻坚首都高，然而其隐藏在平淡表象之下的深厚潜能绝不可等闲视之。,,Gloss red finish with gold wheels.,Red,,,,01,00,01,01,19,14,A0,00,00,00
+R-044,TWISTER,灼熱の蜃気楼,葛西 和雄,灼热幻象,队长,TWISTER,FD,FR,Tokyo Xtreme Racer,拥有碾压级的绝对硬实力与深厚阅历；其凶戾的走线宛如得到了地狱恶魔的庇护。,,Gloss red finish with gold aftermarket wheels.,Red,,,,02,03,03,03,0A,00,8C,00,00,00
+R-045,TWISTER,スマイル０円,酒入 康之,微笑0日元,队员,TWISTER,FC,FR,Tokyo Xtreme Racer,在关西地下飙车界小有名气的飞车党；大约一年前举家迁居关东地区定居。,,Dark metallic grey finish.,Dark Grey,,,约一年前自关西地区搬迁至关东定居,02,02,03,03,17,1E,1E,00,00,00
+R-046,TWISTER,SWEET BLUES,川本 鈴奈,甜美蓝调,队员,TWISTER,FC,FR,Tokyo Xtreme Racer,凭借与生俱来的敏锐直觉让车辆如穿针引线般在车流中穿行，但受制于经验尚浅，跑法仍略显粗糙。,,Light green finish with gold aftermarket wheels.,Light Green,,,,02,02,02,02,91,B4,8C,00,00,00
+R-047,TWISTER,ブルーライター,持田 忠志,蓝色打火机,队员,TWISTER,FC,FR,Tokyo Xtreme Racer,纯粹绝对极速谈不上出类拔萃，但极度好胜输不起，对每一场胜负结果都有着近乎病态的执念。,,Clean light blue finish.,Light Blue,,,,02,02,02,02,B4,87,5A,00,00,00
+R-048,TWISTER,シューティングスター,牧原 大介,流星,队员,TWISTER,FD,FR,Tokyo Xtreme Racer,受车队前辈的引荐踏入首都高飙车界；自身拥有相当扎实耐打的控车手艺。,,Clean blue finish with gold aftermarket wheels.,Blue,,,受队内某位资深老队员引领涉足首都高飙车界,02,02,03,03,78,14,00,00,00,00
+R-049,TWISTER,花月男爵,花月 長英,花月男爵,队员,TWISTER,FD,FR,Tokyo Xtreme Racer,据传是某富商望族的豪门少爷。车上虽砸下了令人咂舌的重金，无奈实际操控身手属实难登大雅之堂。,,Clean white finish.,White,,,,01,02,02,02,AA,B4,AA,00,00,00
+R-050,R.GANG,戦慄のドリフトダンサー,川上 俊樹,颤抖漂移舞者,队长,R.GANG,AE86L,FR,Tokyo Xtreme Racer,驾驶着深度涡轮特调的“86”，随时随地在全线广发英雄帖，渴求能与自己势均力敌的热血对手！,,Classic panda paint scheme.,White,Black,,,04,03,03,03,B9,B9,B9,1E,1E,1E
+R-051,R.GANG,ストリートダンサー,滝沢 修一,街道舞者,队员,R.GANG,AE86L,FR,Tokyo Xtreme Racer,山路时期的生涯胜率一度高踞八成以上，可转战首都高后如今胜率居然跌至惨淡的三成五！？,,Two-tone appearance.,Green,Black,,,04,03,03,03,17,30,12,1E,1E,1E
+R-052,R.GANG,地獄のバーテンダー,黒井 忠志,地狱调酒师,队员,R.GANG,AE86L,FR,Tokyo Xtreme Racer,精通甩尾绝技的资深调酒师；控车过弯时整台车仿佛化作了他手中随心所欲的鸡尾酒摇酒壶！,,Clean silver finish.,Silver,,,,04,03,03,03,64,60,60,64,60,60
+R-053,R.GANG,スピードの教授,本上 則鷹,极速教授,队员,R.GANG,AE86L,FR,Tokyo Xtreme Racer,纯粹从严密物理理论角度剖析驾驶。平日性格文静儒雅，但一旦真正被激怒，后果极其恐怖！,,Two-tone dark red appearance.,Dark Red,Dark Grey,,,04,03,03,03,1B,00,58,1E,1E,1E
+R-054,R.GANG,風のインパラ,原田 剛,风之黑斑羚,队员,R.GANG,AE86T,FR,Tokyo Xtreme Racer,脑海中完全没有“松开油门”这一概念的亡命之徒；过往已有数次直接撞烂护栏的惨烈事故前科。,,Two-tone blue appearance.,Blue,Grey,,,04,03,03,03,3F,12,08,1E,1E,1E
+R-055,R.GANG,黒い蜃気楼,二階堂 和夫,黑色幻象,队员,R.GANG,AE86T,FR,Tokyo Xtreme Racer,把省油经济行驶奉为人生第一信条！！据说其转速表指针绝不会被允许越过五千转雷池半步。,,Two-tone dark grey appearance.,Dark Grey,Black,,,04,03,03,03,19,19,19,1E,1E,1E
+R-056,R.GANG,レインドロップ,中西 翔,雨滴,队员,R.GANG,AE86T,FR,Tokyo Xtreme Racer,因憧憬身为明星车手的兄长而踏足车圈；特意加盟竞争对手车队，誓要全凭自身实力闯出一片天。,,Clean blue finish.,Blue,,,中西大树（DIAMOND IMAGE）之弟；特意加入不同车队以磨练个人技术,04,03,03,03,71,26,12,71,26,12
+R-057,TOKIO JUNGLE,イオ,井尾那 満,伊绪,队长,TOKIO JUNGLE,FC,FR,Tokyo Xtreme Racer,某知名改装大厂的御用签约测试车手；偏爱轻量紧凑型车体，是不折不扣的资深漂移死忠。,,Clean cream/white finish.,Cream,,,,03,03,03,03,A5,C1,C1,00,00,00
+R-058,TOKIO JUNGLE,MJ6feet6,馬場 篤史,MJ 6英尺6,队员,TOKIO JUNGLE,EK9,FF,Tokyo Xtreme Racer,前企业职业男篮主力队员；凭借运动员级别的惊人反应神经，极度擅长在紧凑车流中行云流水般极速变道。,,Clean silver finish.,Silver,,,,04,03,03,03,66,5F,55,00,00,00
+R-059,TOKIO JUNGLE,漆黒の熱い風,本多 恭司,漆黑热风,队员,TOKIO JUNGLE,DC2,FF,Tokyo Xtreme Racer,近来才彻底觉醒了速度之魂，将全副精力纯粹倾注在征服首都高的漫漫长夜之中。,,Dark metallic grey finish.,Dark Grey,,,,04,03,03,03,19,19,19,00,00,00
+R-060,TOKIO JUNGLE,白狐,流川 利樹,白狐,队员,TOKIO JUNGLE,RPS13,FR,Tokyo Xtreme Racer,驾驶基本功相当过硬，但骨子里欠缺一击必杀的狠劲，往往在千钧一发之际犹豫不决痛失好局。,,Clean white finish.,White,,,,04,03,03,03,C1,C1,C1,00,00,00
+R-061,TOKIO JUNGLE,ソルティドッグ,水島 勝秋,咸狗,队员,TOKIO JUNGLE,FC,FR,Tokyo Xtreme Racer,由于出道涉足较晚，火候尚显稚嫩，但偶尔也能在关键路段跑出令人眼前一亮的洗练走线。,,Pale yellow/cream finish with gold wheels.,Pale Yellow,,,,02,02,02,03,89,AE,AA,00,00,00
+R-062,TOKIO JUNGLE,スライド・フリーク,東 憲明,滑移狂人,队员,TOKIO JUNGLE,FC,FR,Tokyo Xtreme Racer,最近才刚刚搬到东京定居，因此对首都高犹如立体迷宫般的地形和弯角仍然感到颇为吃力。,,Gloss red finish.,Red,,,,02,02,03,03,06,14,AA,00,00,00
+R-063,TOKIO JUNGLE,走るブルーウェイブ,高江 幸次,奔腾蓝浪,队员,TOKIO JUNGLE,RPS13,FR,Tokyo Xtreme Racer,虽在车上花费了巨额不菲的开销，但所有的执着和心思全都一股脑花在外观视觉与奢华内饰上了。,,Clean blue finish.,Blue,,,,04,03,03,03,60,0A,0A,00,00,00
+R-064,TOP LEVEL,ターマック鈴木,鈴木 健二,柏油路铃木,队长,TOP LEVEL,CE9A,4WD,Tokyo Xtreme Racer,在四驱（4WD）机器的驾驭造诣上无人能出其右；坊间盛传其早年曾是职业拉力赛场上的风云人物。,,Gloss red finish with gold aftermarket wheels.,Red,,,,04,03,03,03,19,00,71,00,00,00
+R-065,TOP LEVEL,幻の美少女,若林 麻紀,幻影美少女,队员,TOP LEVEL,CE9A,4WD,Tokyo Xtreme Racer,背着男友偷偷把跑车借出、夜夜在首都高狂飙突进的元气短大女大学生。,,Clean white finish.,White,,,瞒着男友擅自借开其跑车，深夜在首都高上疾驰狂飙,03,03,03,03,B7,B7,B7,00,00,00
+R-066,TOP LEVEL,悲劇の紅い涙,本木 聖子,悲剧红泪,队员,TOP LEVEL,CE9A,4WD,Tokyo Xtreme Racer,在一场惨烈车祸中痛失挚爱恋人。为了追寻他生前在极速中苦苦探寻的答案，今夜依然长跑不休。,,Gloss red finish with gold aftermarket wheels.,Red,,,深陷挚爱丧生之痛；为了寻找亡友生前追寻的终极答案而长跑不休,03,03,03,03,00,00,91,00,00,00
+R-067,TOP LEVEL,伝説の作業員,新稔 富雄,传奇打工人,队员,TOP LEVEL,CP9A,4WD,Tokyo Xtreme Racer,无论在何等恶劣险阻的路况下，圈速都能精准维持在同一秒内；擅长在毫无空隙的车阵中穿梭缝隙。,,Vibrant yellow finish with gold aftermarket wheels.,Yellow,,,,02,02,02,03,00,91,B4,00,00,00
+R-068,TOP LEVEL,ミッドナイトブルー,中島 友子,午夜蓝,队员,TOP LEVEL,CP9A,4WD,Tokyo Xtreme Racer,出生自北方雪国且性格多愁善感。控车技术扎实深厚，但终局冲刺决断力欠佳或许是天性使然……,,Clean blue finish.,Blue,,,,02,02,02,03,82,0A,00,00,00,00
+R-069,TOP LEVEL,軍師紅,河村 誠,绯红谋略家,队员,TOP LEVEL,CP9A,4WD,Tokyo Xtreme Racer,曾在拉力锦标赛中斩获不俗佳绩；如今把目光投向这片深夜公路，向首都高的顶尖飞车党们正式宣战！,,Magenta/pinkish-red finish.,Pink,,,,02,02,02,03,28,00,7B,00,00,00
+R-070,FREE WAY,碧い彗星,小山 晴彦,蓝色彗星,队长,FREE WAY,R34,4WD,Tokyo Xtreme Racer,若单论直线终段极速，他极有可能问鼎首都高第一人的宝座；其座驾已被深度改装到了绝对极限。,,Clean blue finish.,Blue,,,,04,03,03,03,7D,28,00,00,00,00
+R-071,FREE WAY,アクセル・ジャンキー,福井 章弘,油门上瘾者,队员,FREE WAY,R32,4WD,Tokyo Xtreme Racer,供职于某汽车用品店的爱车狂人。频繁急加速起步与暴躁急刹的极度危险分子！,,Clean white finish.,White,,,,03,02,02,02,AF,AF,AF,00,00,00
+R-072,FREE WAY,ハイウェイ・ボンバー,和田 結城,公路轰炸机,队员,FREE WAY,R32,4WD,Tokyo Xtreme Racer,“MAX RACING”车队和田贵树的亲弟弟。为了在首都高上飙车而背负沉重车贷，如今正深陷还债苦海。,,Dark metallic grey finish.,Dark Grey,,,和田贵树（MAX RACING）的弟弟,02,02,02,03,08,0A,07,00,00,00
+R-073,FREE WAY,クリスタル・ナイツ,三木本 高次,水晶骑士,队员,FREE WAY,R32,4WD,Tokyo Xtreme Racer,日夜泡在首都高上的痴迷者；倚仗天生卓绝的驾驶直觉，立志问鼎首都高冠军的至高宝座。,,Light silver finish.,Silver,,,,02,02,02,02,9B,86,73,00,00,00
+R-074,FREE WAY,アルティメットキラー,飛山 一郎,终极杀手,队员,FREE WAY,R32,4WD,Tokyo Xtreme Racer,动辄强行恶意挤压变道、粗暴别车阻挡；毫无赛道礼仪道德的恶劣行径令公路同道们人人侧目唾弃。,,Distinctive purple paint scheme.,Purple,,,,02,02,02,03,6E,32,3C,00,00,00
+R-075,FREE WAY,沈黙のサバイバー,木林 哲郎,沉默幸存者,队员,FREE WAY,R33,4WD,Tokyo Xtreme Racer,一度曾从首都高金盆洗手退出车坛，但终究忘却不掉极速的诱惑，时隔三年再度重返深夜赛道。,,Gloss red finish.,Red,,,,02,02,02,02,23,00,A3,00,00,00
+R-076,FREE WAY,環状線の悪夢,原田 邦広,环线噩梦,队员,FREE WAY,R33,4WD,Tokyo Xtreme Racer,暂离首都高在专业赛道闭关潜修磨砺车技；如今携满腔燃烧的斗志高调宣布重新出道。,,Dark metallic finish.,Grey,,,,02,02,02,03,1E,1E,1E,00,00,00
+R-077,FREE WAY,シルバーフォックス,山田 明,银狐,队员,FREE WAY,R33,4WD,Tokyo Xtreme Racer,其疾驰的白影宛如一头在夜幕车阵中翩跹起舞的灵狐，令目睹之人惊叹不已。,,Clean silver finish.,Silver,,,,02,02,02,02,5E,56,56,00,00,00
+R-078,FREE WAY,オレンジ・ヘッド,志井 宇津,橙发男,队员,FREE WAY,Z32,FR,Tokyo Xtreme Racer,与其一身浮夸扎眼的奇装异服相反，在方向盘前是一位将精密战术布局奉为信条的冷酷计算派。,,Bright orange finish with dark roof trim.,Orange,Black,,,04,03,03,03,00,28,7D,00,00,00
+R-079,ANOTHER STAR,ブルースピード,小幡 尚人,蓝色极速,队长,ANOTHER STAR,GC8,4WD,Tokyo Xtreme Racer,能在高速横移漂移的电光石火间以保险杠精准擦碰路边空易拉罐的天才级车神。,,Clean blue finish with gold wheels.,Blue,,,,03,03,03,03,83,11,06,00,00,00
+R-080,ANOTHER STAR,シルバースピード,上原 洋子,银色极速,队员,ANOTHER STAR,GC8,4WD,Tokyo Xtreme Racer,因极度崇拜队长小幡尚人而加入车队；目前正全力以赴潜心攻读高难度甩尾漂移技术。,,Clean silver finish.,Silver,,,因对队长小幡尚人（ANOTHER STAR）心生崇拜而入队，苦练漂移,02,02,03,02,5F,60,59,00,00,00
+R-081,ANOTHER STAR,カミソリの三浦,三浦 宏治,剃刀三浦,队员,ANOTHER STAR,GC8,4WD,Tokyo Xtreme Racer,金卡纳场地技巧赛锤炼出的过硬本领绝非浪得虚名！其出弯斩角之凌厉精准令人叹为观止。,,Dark metallic finish.,Dark Grey,,,,02,02,03,03,0F,0F,0F,00,00,00
+R-082,ANOTHER STAR,レッドシャウト,高橋 美津枝,红色呼喊,队员,ANOTHER STAR,GC8,4WD,Tokyo Xtreme Racer,一心梦想成为当红歌手的艺术系少女；然而一旦进入对决模式，便会展现出极度暴烈凶狠的反差跑法。,,Bright red finish with gold wheels.,Red,,,,02,03,03,02,14,0A,AA,00,00,00
+R-083,ANOTHER STAR,バトルスクラッチ,藤池 豪,战斗搓盘,队员,ANOTHER STAR,GC8,4WD,Tokyo Xtreme Racer,以追求极致节拍为己任的夜店DJ！扬言如果不听节拍奇快无比的电子狂音，自己的车速就根本提不上来。,,Vibrant yellow finish.,Yellow,,,,02,03,03,02,0F,AF,D2,00,00,00
+R-084,SPEED BOX,刻の星雲,青島 時男,时间星云,队长,SPEED BOX,NA2,MR,Tokyo Xtreme Racer,不愧是某知名汽车巨头的在职工程师，对爱车每一个细枝末节的底盘悬挂调校都苛求到极致。,,Gloss red finish.,Red,,,,04,03,03,03,00,00,9E,00,00,9E
+R-085,SPEED BOX,閃光のドリフトライナー,伊藤 誠,闪光漂移线,队员,SPEED BOX,NA2,MR,Tokyo Xtreme Racer,本想早日戒掉深夜飙车，却彻底沦陷于速度的魔力无法自拔，令人唏嘘叹惋的悲情车手。,,Two-tone appearance with black canopy.,Blue,Black,,,02,02,02,02,6B,0D,01,1E,1E,1E
+R-086,SPEED BOX,バーニング・ライダー,武田 増夫,烈火骑士,队员,SPEED BOX,NA2,MR,Tokyo Xtreme Racer,近期刚刚由两轮摩托车转投四轮汽车门下，如今已雄心勃勃直指首都高的至高顶点宝座！,,Two-tone appearance with black canopy.,Dark Red,Black,,,02,02,02,02,14,0A,6C,32,32,32
+R-087,SPEED BOX,マックス荒木,荒木 大樹,极限荒木,队员,SPEED BOX,NA2,MR,Tokyo Xtreme Racer,某职业棒球劲旅的当家王牌投手；然而在深夜时分，却常常秘密化身为在环线上狂飙的幽灵。,,Gloss orange finish.,Orange,,,,02,02,02,02,00,42,B6,00,42,B6
+R-088,SPEED BOX,キリングマシーン,北方 秀平,杀戮机器,队员,SPEED BOX,NA2,MR,Tokyo Xtreme Racer,哪怕面对命悬一线的绝境亦面不改色、眉头不皱一下，驾驶极其精准冷酷，宛如一台毫无感情的杀戮机器。,,Two-tone appearance with black canopy.,White,Black,,,02,02,02,02,AF,AF,AF,14,14,14
+R-089,SPEED BOX,ストリートの戦闘機,長野 毅,街头格斗家,队员,SPEED BOX,NA2,MR,Tokyo Xtreme Racer,白天是拼尽全力四处奔波的精英金牌销售，夜幕降临后则摇身一变成为横扫公路的冷血斗士。,,Distinctive pink paint scheme.,Pink,,,,03,02,02,02,69,46,C1,69,46,C1
+R-090,TR RACING,止められない黒龍の夢,古木 竜太郎,黑龙无尽之梦,队长,TR RACING,R33,4WD,Tokyo Xtreme Racer,对是非颠倒的虚伪社会彻底绝望；深信只有在这片以纯粹胜负决断一切的深夜公路之上，自己才能真正活着。,,Dark metallic finish with aftermarket front bumper.,Dark Grey,,,以冷峻的虚无主义领袖魅力将全队紧密团结在一起,03,02,02,03,0D,0F,0F,00,00,00
+R-091,TR RACING,ラブリー♪りな,川原 理奈,可爱理奈,队员,TR RACING,RPS13,FR,Tokyo Xtreme Racer,曾在险峻山路上呼啸来去的元气少女！最近刚刚将征服的足迹踏足至首都高的宽阔舞台。,,Clean silver finish.,Silver,,,,03,02,02,03,1E,1E,1E,00,00,00
+R-092,TR RACING,180マスター,久保田 淳一,180大师,队员,TR RACING,RPS13,FR,Tokyo Xtreme Racer,从早年便在此厮杀的老资格常青树；对如今的爱车倾注了整整七年不曾更换的心血，执念深厚。,,Clean white finish.,White,,,,03,02,02,03,B9,B9,B9,00,00,00
+R-093,TR RACING,レブリミット破りのシンジ,大竹 伸司,破转速晋司,队员,TR RACING,R33,4WD,Tokyo Xtreme Racer,原本征战于零四直线加速赛场；如今将战场转移至首都高弯道，志在夺取第一的至高桂冠！,,Vibrant purple finish.,Purple,,,,03,02,02,03,46,05,35,00,00,00
+R-094,TR RACING,ストリートクィーン,栗林 優美,街头女王,队员,TR RACING,Z32,FR,Tokyo Xtreme Racer,骨子里极度爱出风头；凭借夸张艳丽的座驾与招摇过市的浮夸走线死死吸附住过往所有人的视线。,,Distinctive pink paint scheme with black canopy.,Pink,Black,,,03,02,02,03,5F,4A,86,00,00,00
+R-095,TR RACING,ダンシング・チェイサー,石井 拓,跳舞追踪者,队员,TR RACING,JZX100,FR,Tokyo Xtreme Racer,居住于横滨，曾长年在第三京滨道路上风驰电掣，近来开始将重心转移到全力攻略首都高上。,,Gloss red finish.,Red,,,,03,02,02,03,05,05,64,05,05,00
+R-096,CUPID ARROWS,ソニック・ランナー,吉澤 麻由美,音速奔跑者,队长,CUPID ARROWS,AP1,FR,Tokyo Xtreme Racer,虽然染了一头金棕色长发，但本人坚决否认自己是不良太妹；今夜依然驾驶心爱座驾全力攻弯。,,Gloss blue finish with black soft top.,Blue,Black,,,04,03,03,03,B7,23,00,00,00,00
+R-097,CUPID ARROWS,眩惑の白き妖精,小泉 翔子,炫目白妖精,队员,CUPID ARROWS,DC2,FF,Tokyo Xtreme Racer,虽仅有一年的短暂驾龄，但控车技术已颇具火候；动作轻盈曼妙，灵动地穿行在首都高之上！,,Aftermarket body kit and wheels.,White,Black,Red,,04,03,03,03,8F,A3,A3,00,00,00
+R-098,CUPID ARROWS,ムーンライトチャイルド,藤崎 公子,月光之子,队员,CUPID ARROWS,EK9,FF,Tokyo Xtreme Racer,平日里腼腆文静，然而一旦夜幕月华升起，便会毫无预兆地翩然现身，带着孩童般的天真烂漫狂飙长路。,,Pale yellow finish with red aftermarket wheels.,Pale Yellow,,Red,,04,03,03,03,49,8B,88,00,00,00
+R-099,CUPID ARROWS,カウボウイ・ガール,北山 麗奈,牛仔女孩,队员,CUPID ARROWS,EK9,FF,Tokyo Xtreme Racer,怀揣演员梦想的短发少女；与娇俏可人的面容形成巨大反差的是，其攻弯决断之果敢凶猛令人刮目相看。,,Vibrant yellow finish.,Yellow,,,,04,03,03,03,00,96,C1,00,00,00
+R-100,CUPID ARROWS,シルバー・インパクト,東 亜季,银色冲击,队员,CUPID ARROWS,EK9,FF,Tokyo Xtreme Racer,虽在车队中排在末流速度，但作为核心管家式灵魂人物不可或缺；严守抓地走线是其坚不可摧的原则。,,Clean silver finish.,Silver,,,全队不可或缺的灵魂定盘星兼大管家,04,03,03,03,73,69,69,00,00,00
+R-101,CUPID ARROWS,246ハートブレイカー,武藤 崇子,246心碎者,队员,CUPID ARROWS,EK9,FF,Tokyo Xtreme Racer,每逢失恋便会一脚油门踩到底、在呼啸狂风中狂抹眼泪的白领女职员；令人惊叹的是，她的车技绝非花拳绣腿！,,Distinctive pink paint scheme.,Pink,,,,04,03,03,03,67,5D,B9,00,00,00
+R-102,WIND STAR,狼の鎮魂歌,鬼塚 清史,群狼安魂曲,队长,WIND STAR,JZA80,FR,Tokyo Xtreme Racer,早年曾在公路惨烈事故中痛失挚友；为了继承那名男人的生前遗志而义无反顾地长年飞驰下去。,,Gloss purple finish with aftermarket bodykit.,Purple,,,为继承在事故中不幸丧生的车友遗志而夜夜在公路上狂奔,04,03,03,03,9B,3C,64,00,00,00
+R-103,WIND STAR,Ｒマジック,玉川 勇,R之魔法,队员,WIND STAR,GC8,4WD,Tokyo Xtreme Racer,起初买车纯粹只是为了讨女孩子欢心，谁料如今已深陷车坑不可自拔，甚至将爱车视作唯一的正牌女友。,,Clean blue finish with gold wheels.,Blue,,,,03,03,02,02,6B,0D,01,00,00,00
+R-104,WIND STAR,ブラック・マジシャン,東山 晃久,黑魔法师,队员,WIND STAR,SW20,MR,Tokyo Xtreme Racer,过弯时仿佛整台车身牢牢吸附在地表之上，目光如炬，誓要问鼎首都高最速车手的终极桂冠。,,Dark metallic grey finish with gold wheels.,Dark Grey,,,,03,03,02,02,14,14,14,00,00,00
+R-105,WIND STAR,ダイヤモンド・ダスト,相川 俊樹,钻石星尘,队员,WIND STAR,S14,FR,Tokyo Xtreme Racer,他对重金属摇滚的狂热痴迷，单从他每次出入高难度弯道时那极尽华丽夸张的狂放走线中便可见一斑。,,Clean light blue finish.,Light Blue,,,,03,03,02,02,83,68,50,00,00,00
+R-106,WIND STAR,環状の暴走機関車,長瀬 明,环线暴走机车,队员,WIND STAR,CP9A,4WD,Tokyo Xtreme Racer,自痛失长兄之后，便宛如被恶灵附身一般，长年死死紧握亡兄的遗留座驾日夜狂奔。,,Clean blue finish.,Blue,,,因痛失长兄而陷入近乎着魔的癫狂，长年驾驶亡兄遗车狂飙不辍,03,03,02,02,C1,6E,3C,00,00,00
+R-107,WIND STAR,イエローフレア,定岡 一平,黄色闪光,队员,WIND STAR,S15,FR,Tokyo Xtreme Racer,对首都高特有的内在韵律了然于胸，因而其攻入连续弯道的姿态极具刀锋般的凌厉感。,,Vibrant yellow finish.,Yellow,,,,03,03,02,02,00,96,B4,00,00,00
+R-108,WIND STAR,駿足のワルキューレ,上村 夏美,迅捷女武神,队员,WIND STAR,FC,FR,Tokyo Xtreme Racer,一旦下定决心便不达目的誓不罢休的倔强性格，面对任何险境都绝不会半途而废。,,Clean light blue finish.,Light Blue,,,,03,03,02,02,D2,50,46,AA,A0,8C
+R-109,WIND STAR,クィーン,春香 奈緒,女王,队员,WIND STAR,RPS13,FR,Tokyo Xtreme Racer,在专业封闭赛道上战绩卓著的实力派女车手；如今深夜的立体高架公路线反倒成了其真正的主场。,,Gloss red finish.,Red,,,,03,03,02,02,1E,0C,A3,00,00,00
+R-110,WIND STAR,蒼い巨星,中田 哲郎,蓝巨星,队员,WIND STAR,CE9A,4WD,Tokyo Xtreme Racer,凭借烈火般燃烧的赤诚狂热与不懈刻苦打磨，在首都高的车友圈内赢得了举足轻重的深厚敬意。,,Clean blue finish.,Blue,,,,03,03,02,02,82,16,0D,00,00,00
+R-111,R.R.,白銀の貴公子,空御寺 敏彦,银色贵公子,队长,R.R.,FC,FR,Tokyo Xtreme Racer,名门空御寺财阀兄弟中的长兄；对自身驾驶抱有独到哲学思想的严谨理论派车神。,,Clean white finish.,White,,,空御寺俊次（R.R.）的长兄,04,03,03,03,BE,BE,BE,00,00,00
+R-112,R.R.,コーナリング・アーティスト,空御寺 俊次,弯道艺术家,队员,R.R.,FD,FR,Tokyo Xtreme Racer,空御寺财阀兄弟中的二少爷；凭借得天独厚、宛如神赐的惊人弯道直觉与天赋压迫全场。,,Vibrant yellow finish with aftermarket wheels.,Yellow,,,空御寺敏彦（R.R.）的弟弟,04,03,03,03,0A,E6,F0,00,00,00
+R-113,R.R.,アスファルトの囁き,等々力 聖志,沥青之呢喃,队员,R.R.,FC,FR,Tokyo Xtreme Racer,自封为“漂移大宗师”；实事求是地讲，单论横移侧滑的漂移控车技巧，他的确堪称举世无双！,,Light purple/lavender finish.,Light Purple,,,,03,03,02,02,D2,5F,9B,00,00,00
+R-114,R.R.,ＨＩＲＯＳＨＩ,木村 博史,博史,队员,R.R.,FC,FR,Tokyo Xtreme Racer,地下视觉系摇滚乐队当家主唱；那份深入骨髓的音乐节拍感也被完美地注入到了控车行云流水的律动之中。,,Clean light blue finish.,Light Blue,,,,03,03,02,02,C8,91,41,00,00,00
+R-115,R.R.,暗黒メモリアル,大神 咲人,暗黑追忆,队员,R.R.,FD,FR,Tokyo Xtreme Racer,罹患失忆症的原职业顶级赛车手；今夜依旧在无边黑暗中飞驰，苦苦寻回自己丢失的过往记忆！,,Dark metallic grey/olive finish.,Dark Grey,,,,03,03,02,02,05,0A,05,00,00,00
+R-116,R.R.,リスキー・キャット,相川 奈美江,冒险猫,队员,R.R.,FD,FR,Tokyo Xtreme Racer,发挥全看当天心情阴晴圆缺的随性派女车手；可一旦状态渐入佳境，其速度堪称快如鬼魅、难以企及！,,Distinctive pink paint scheme.,Pink,,,,03,03,02,02,73,2B,C1,00,00,00
+R-117,R.R.,盲目の怪鳥,永瀬 明,盲目怪鸟,队员,R.R.,FD,FR,Tokyo Xtreme Racer,与其魁梧壮硕如铁塔般的巨大体型截然相反，打方向盘动作极其灵巧细腻，对车身重心的拿捏妙到巅毫！,,Clean silver finish.,Silver,,,,03,03,02,02,A0,96,8C,00,00,00
+R-118,R.R.,ハイスピード・スター,上村 龍一,高速之星,队员,R.R.,FD,FR,Tokyo Xtreme Racer,秉持老派工匠精神的传统派车手；在车辆底盘响应未能彻底令自己满意之前，即便连跑数小时也不会停歇。,,Vibrant yellow finish.,Yellow,,,,03,03,02,02,0A,AF,F0,00,00,00
+R-119,RINGS,孤高のジャッカル,宮沢 剛,孤独豺狼,队长,RINGS,NA2,MR,Tokyo Xtreme Racer,毫无征兆地从黑暗中骤然现身，如疾风般将对手一击绝杀后绝尘而去；其神乎其技的跑法甚至令人怀疑他是否仍属人类。,,Two-tone appearance with black canopy.,White,Black,,确立了队内任何人都无法企及的绝顶技术天花板，令整支自由散漫的车队心悦诚服,04,03,03,03,C1,C1,C1,19,19,19
+R-120,RINGS,鮮烈のスライドテール,岸 五郎,生动滑尾,队员,RINGS,R32,4WD,Tokyo Xtreme Racer,昔日零四直线加速赛的折桂霸主；在车辆抓地力濒临失控边缘的极限游走状态下拥有绝顶的掌控力。,,Clean blue finish.,Blue,,,,03,03,03,03,5F,21,00,00,00,00
+R-121,RINGS,流星の陽介,新居 陽介,流星阳介,队员,RINGS,R33,4WD,Tokyo Xtreme Racer,往昔曾被奉为全路段至强神话的车手；只需亲自试跑区区几圈，便能瞬间洞悉座驾所有最细微的机械状态。,,Dark blue finish.,Dark Blue,,,,03,03,03,03,46,0F,05,00,00,00
+R-122,RINGS,チューン屋のハマダ,浜田 悟史,改装铺滨田,队员,RINGS,FD,FR,Tokyo Xtreme Racer,从常规保养维护到高阶独门定制改装皆亲力亲为、无所不能的全能手艺人。,,Vibrant yellow finish with aftermarket wheels.,Yellow,,,,03,03,03,03,00,91,B4,00,00,00
+R-123,RINGS,シルバーの天使,村上 洋子,银色天使,队员,RINGS,Z32,FR,Tokyo Xtreme Racer,出身豪门名媛之列的女大学生；行车作风飞扬跋扈极度危险，完全将四周过往的车流视若无物。,,Clean silver finish.,Silver,,,,03,03,03,03,68,68,68,00,00,00
+R-124,RINGS,音速の白い悪魔,飯島 高文,音速白魔,队员,RINGS,CE9A,4WD,Tokyo Xtreme Racer,一度彻底退出玩车改装界，终究难以割舍对疾风速度的无限眷恋，再度重返这片午夜公路。,,Clean white finish; features front rally fog lights.,White,,,,03,03,03,03,B4,B4,B4,00,00,00
+R-125,SPEED MASTER,アイスマン,滝口 真二,冰人,队长,SPEED MASTER,R32,4WD,Tokyo Xtreme Racer,行车兼具超拔的狂放胆魄与令人不寒而栗的绝对冷静，举手投足间无不流露出不可动摇的帝王气魄。,,Clean light blue finish.,Light Blue,,,车队名义上的统领队长,04,03,03,03,8F,59,32,00,00,00
+R-126,SPEED MASTER,満月の狂気,木下 大輔,满月狂气,队员,SPEED MASTER,R32,4WD,Tokyo Xtreme Racer,狂暴嗜血的侵略性跑法死死压制所有对手；队内私下里盛传他才是车队里实力隐匿的最强第一人。,,Gold metallic finish.,Gold,,,因狂暴绝伦的攻击性跑法，在队内私底下被视作隐性实权头号人物,03,03,03,03,0A,5A,91,00,00,00
+R-127,SPEED MASTER,サンセットライナー,渋沢 了,日落客车,队员,SPEED MASTER,NA2,MR,Tokyo Xtreme Racer,“SPEED MASTER”车队公认的第三号王牌主力；对这条深夜环状线每一处微妙坡度与陷阱弯道皆如数家珍。,,Two-tone appearance with black canopy.,Red,Black,,全队公认的第三顺位核心主将,04,03,03,03,0D,24,A3,32,32,32
+R-128,SPEED MASTER,白い魔女,山村 友華,白魔女,队员,SPEED MASTER,FD,FR,Tokyo Xtreme Racer,反感任何哗众取宠的浮夸动作；在深沉夜色中冰冷而悄无声息地将对手优雅超拔的绝美少女车手。,,Clean white finish.,White,,,,04,03,03,03,AA,B4,B4,00,00,00
+R-129,SPEED MASTER,ビジュアルテール,小林 哲也,视觉车尾,队员,SPEED MASTER,R34,4WD,Tokyo Xtreme Racer,无论面对何种恶劣气候与险阻路况皆坚如磐石；在一切极限严苛环境下都能交出无可挑剔的平稳答卷。,,Vibrant yellow finish.,Yellow,,,,03,03,03,03,0A,8C,B8,00,00,00
+R-130,SPEED MASTER,パールホワイトキス,小山 麗奈,珍珠白之吻,队员,SPEED MASTER,R33,4WD,Tokyo Xtreme Racer,身处看似美满平凡的日常温室，却在深夜街道上亡命狂奔，仿佛在拼命逃离自己空虚的内心。,,Pearl white finish.,Pearl White,,,,03,03,03,03,8C,AA,AA,00,00,00
+R-131,SPEED MASTER,マニアック・プレーヤー,井上 秀則,疯狂玩家,队员,SPEED MASTER,GC8,4WD,Tokyo Xtreme Racer,本职为专业钢琴家；天生出类拔萃的音律节奏感赋予了他超前预读数步之后最佳走线的惊人神通。,,Gloss red finish.,Red,,,,04,03,03,03,19,00,82,00,00,00
+R-132,SPEED MASTER,ブラックエンジェル,岩崎 彩子,黑色天使,队员,SPEED MASTER,JZA80,FR,Tokyo Xtreme Racer,凭借倾城绝代的华贵美貌与华丽绝伦的高超车技倾倒众生；整个深夜首都高上无人不知其大名。,,Dark metallic grey finish.,Dark Grey,,,,04,03,03,03,14,14,14,00,00,00
+R-133,SPEED MASTER,ファーストビート,秋山 哲朗,首拍,队员,SPEED MASTER,CP9A,4WD,Tokyo Xtreme Racer,原本深入探访地下街头赛车实况的纪实作家；在长期跟踪采访的过程中，自身反倒被狂暴的车魂彻底俘获。,,Dark metallic grey finish.,Dark Grey,,,,04,03,03,03,19,19,19,00,00,00
+R-134,THE 4 DEVAS,死神ドライバー,織田 敬一,死神车手,头目,THE 4 DEVAS,S15,FR,Tokyo Xtreme Racer,其视死如归的冷酷驾驶充斥着对死亡本身的绝对蔑视，浑身散发着拒绝任何人靠近的极寒孤绝死气。,,Dark metallic grey finish with gold wheels.,Dark Grey,,,独行侠；浑身散发着生人勿近、令人不寒而栗的孤绝死气,04,03,03,03,0F,0F,0F,00,00,00
+R-135,THE 4 DEVAS,１２時すぎのシンデレラ,林原 美津江,零点后的灰姑娘,头目,THE 4 DEVAS,FD,FR,Tokyo Xtreme Racer,受美式狂野硬派风格洗礼的绝顶高手，出手必是摧枯拉朽的大胜；在整条首都高上，至今尚无人亲眼见过她落败的模样。,,Blue finish with prominent white flame decals.,Blue,White,,作为头目角色完全独立行动,04,03,03,03,A0,7D,7D,00,00,00
+R-136,THE 4 DEVAS,真夜中の銀狼,福田 達也,午夜银狼,头目,THE 4 DEVAS,R32,4WD,Tokyo Xtreme Racer,从不与庸碌之辈抱团成群，始终恪守绝对独行；相传任何胆敢在后方试图尾随其步伐之人，皆难逃惨烈车祸的厄运。,,Clean silver finish.,Silver,,,拒绝随波逐流的孤狼；从不群聚，誓死贯彻绝对独行,04,03,03,03,73,73,73,00,00,00
+R-137,THE 4 DEVAS,夢見の生霊,君嶋 陽平,幻影生灵,头目,THE 4 DEVAS,NA2,MR,Tokyo Xtreme Racer,当前首都高最速单圈记录的真正缔造与保有者。至今未曾有任何车手能成功在其后视镜中窥见其疾驰的背影。,,Gold finish with red flame decals.,Gold,Red,,作为头目角色完全独立行动,04,03,03,03,46,96,AD,46,96,AD
+R-138,THE 4 DEVILS,紅の悪魔,宮川 雷斗,红之恶魔,头目,THE 4 DEVILS,R34D,4WD,Tokyo Xtreme Racer,其车技早已超越凡人肉身能够达到的物理极限；恍惚之间，整台车仿佛正被某种不可名状的异界怨念所彻底附体……,,Red finish with large yellow emblem/flame decal on hood.,Red,Yellow,,镇守最终魔窟大门的孤傲守门人,04,03,03,03,6B,00,7A,00,00,00
+R-139,THE 4 DEVILS,エキゾースト・イヴ,森山 千夏,排气夏娃,头目,THE 4 DEVILS,JZA80D,FR,Tokyo Xtreme Racer,平日里不过是位文静内敛的普通女白领；然而每逢满月当空之夜，隐藏在其体内深处的第二重嗜血人格——“夏娃”便会轰然苏醒。,,Pink finish with tricolor racing stripes running down the center.,Pink,White,Red/Green,镇守最终魔窟大门的孤傲守门人,04,03,03,03,B7,8F,B7,00,00,00
+R-140,THE 4 DEVILS,ZERO,松本 雅,ZERO,头目,THE 4 DEVILS,P930,RR,Tokyo Xtreme Racer,十年如一日在这片午夜沥青之路上独孤求败、从不曾品尝过任何一场失利滋味的传奇霸王。,,Dark metallic finish with Blackbird-style appearance.,Dark Grey,,,十载不败的巅峰霸王；致敬《湾岸竞速》岛达也所驾保时捷930“黑鸟”,04,03,03,03,0A,0A,0A,00,00,00
+R-141,THE 4 DEVILS,？？？,NO DATA,？？？,头目,THE 4 DEVILS,S30Z,FR,Tokyo Xtreme Racer,难道这便是十年前一手开辟出首都高最初神话的那个男人的不散冤魂？凡与其在此交手之人……,,Dark blue finish with Devil Z-style appearance.,Dark Blue,,,开创十年前最初首都高传说的亡灵；致敬《湾岸竞速》朝仓明雄所驾S30Z“恶魔之Z”,04,03,03,03,37,19,00,00,00,00
