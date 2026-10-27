@@ -481,7 +481,7 @@ def build_multilingual_database():
                 m2 = row.get('motivator_2', '')
                 pillars = [p.strip() for p in (p1, p2, p3) if p and p.strip()]
                 motivators = [m.strip() for m in (m1, m2) if m and m.strip()]
-                tax_map[row['entity_id']] = {
+                tax_map[(row.get('kind', '').strip().lower(), row.get('name', '').strip())] = {
                     'pillars': pillars or ['MARTIAL'],
                     'motivators': motivators or ['BOND']
                 }
@@ -556,7 +556,7 @@ def build_multilingual_database():
             elif lang == 'EN':
                 nick_i18n[lang] = canon_nick
                 
-        tax_entry = tax_map.get(p_id, {'pillars': ['MARTIAL'], 'motivators': ['BOND']})
+        tax_entry = tax_map.get(('person', canon_name), {'pillars': ['MARTIAL'], 'motivators': ['BOND']})
         for p in tax_entry['pillars']:
             themes.append('p:' + p)
         for m in tax_entry['motivators']:
@@ -650,7 +650,7 @@ def build_multilingual_database():
             latest_en_bio = bios_list[-1]['i18n'].get('EN', '')
             latest_jp_bio = bios_list[-1].get('jp', '')
                 
-        tax_entry = tax_map.get(t_id, {'pillars': ['MARTIAL'], 'motivators': ['BOND']})
+        tax_entry = tax_map.get(('team', team_name), {'pillars': ['MARTIAL'], 'motivators': ['BOND']})
         for p in tax_entry['pillars']:
             themes.append('p:' + p)
         for m in tax_entry['motivators']:
