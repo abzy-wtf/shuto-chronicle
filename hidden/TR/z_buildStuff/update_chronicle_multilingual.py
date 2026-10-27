@@ -118,7 +118,7 @@ STORY_UI_JS = r"""
         Object.keys(D.pa || {}).forEach(function (g) {
           Object.keys(D.pa[g]).forEach(function (area) {
             D.pa[g][area].forEach(function (e) {
-              var pid = e.rcode ? rc[gi[g] + '|' + e.rcode] : speakerIndex()[nk(String(e.speaker || '').replace(/[\u2606\u2605]/g, ''))];
+              var pid = (e.rcode && rc[gi[g] + '|' + e.rcode]) || speakerIndex()[nk(String(e.speaker || '').replace(/[\u2606\u2605]/g, ''))];
               e._pid = pid;
               if (pid) (PAIDX[pid] = PAIDX[pid] || []).push({ g: g, area: area, e: e });
             });
@@ -139,7 +139,7 @@ STORY_UI_JS = r"""
         renderStory(m);
       }
       function renderStory(m) {
-        var opts = (m === 'poems' ? ['SB0', 'SB01'] : ['SBX', 'SB2025']).filter(function (g) { return (D.story && D.story[g]) || (D.pa && D.pa[g]) });
+        var opts = (m === 'poems' ? ['SB0', 'SB01'] : ['SB0', 'SB01', 'SBX', 'SB2025']).filter(function (g) { return (D.story && D.story[g]) || (D.pa && D.pa[g]) });
         state.sg = state.sg || {};
         var g = state.sg[m] && opts.indexOf(state.sg[m]) >= 0 ? state.sg[m] : opts[0];
         var v = document.getElementById('view');
