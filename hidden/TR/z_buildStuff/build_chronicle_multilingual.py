@@ -42,37 +42,32 @@ def load_story_cutscenes():
     """
     Loads cutscene scripts and narrative milestones across games:
     - 02_SB0: story_shutoko_battle_zero_i18n.csv
-    - 03_SB01: story_shutoko_battle_01_i18n.csv
     - 07_SBX: story_shutoko_battle_x.csv
     - 08_SB2025: story-stage*.csv
     """
     story_db = {}
     
-# 1. SB0 & SB01 (Parallel multi-lingual sheets)
-    for gid, gdir, fname in [
-        ('SB0', '02_SB0', 'story_shutoko_battle_zero_i18n.csv'),
-        ('SB01', '03_SB01', 'story_shutoko_battle_01_i18n.csv')
-    ]:
-        story_path = os.path.join(BASE_TR, 'JP', gdir, fname)
-        if os.path.exists(story_path):
-            lines = []
-            with open(story_path, 'r', encoding='utf-8-sig', errors='ignore') as f:
-                for row in csv.DictReader(f):
-                    lines.append({
-                        'stage': row.get('Stage', ''),
-                        'sub': row.get('Subsection', ''),
-                        'heading': row.get('Heading', ''),
-                        'char': row.get('Character', ''),
-                        'jp': row.get('Text_JP', ''),
-                        'i18n': {
-                            'EN': row.get('Text_EN', ''),
-                            'ES': row.get('Text_ES', ''),
-                            'RU': row.get('Text_RU', ''),
-                            'CN': row.get('Text_CN', '')
-                        }
-                    })
-            if lines:
-                story_db[gid] = lines
+    # 1. SB0 (Parallel multi-lingual sheet)
+    sb0_story = os.path.join(BASE_TR, 'JP', '02_SB0', 'story_shutoko_battle_zero_i18n.csv')
+    if os.path.exists(sb0_story):
+        lines = []
+        with open(sb0_story, 'r', encoding='utf-8-sig', errors='ignore') as f:
+            for row in csv.DictReader(f):
+                lines.append({
+                    'stage': row.get('Stage', ''),
+                    'sub': row.get('Subsection', ''),
+                    'heading': row.get('Heading', ''),
+                    'char': row.get('Character', ''),
+                    'jp': row.get('Text_JP', ''),
+                    'i18n': {
+                        'EN': row.get('Text_EN', ''),
+                        'ES': row.get('Text_ES', ''),
+                        'RU': row.get('Text_RU', ''),
+                        'CN': row.get('Text_CN', '')
+                    }
+                })
+        if lines:
+            story_db['SB0'] = lines
 
     # 2. SBX & SB2025 across TR/<LANG>/
     for gid, gdir, story_pattern in [
@@ -486,7 +481,7 @@ def build_multilingual_database():
                 m2 = row.get('motivator_2', '')
                 pillars = [p.strip() for p in (p1, p2, p3) if p and p.strip()]
                 motivators = [m.strip() for m in (m1, m2) if m and m.strip()]
-                tax_map[(row.get('kind', '').strip().lower(), row.get('name', '').strip())] = {
+                tax_map[row['entity_id']] = {
                     'pillars': pillars or ['MARTIAL'],
                     'motivators': motivators or ['BOND']
                 }
@@ -561,7 +556,7 @@ def build_multilingual_database():
             elif lang == 'EN':
                 nick_i18n[lang] = canon_nick
                 
-        tax_entry = tax_map.get(('person', canon_name), {'pillars': ['MARTIAL'], 'motivators': ['BOND']})
+        tax_entry = tax_map.get(p_id, {'pillars': ['MARTIAL'], 'motivators': ['BOND']})
         for p in tax_entry['pillars']:
             themes.append('p:' + p)
         for m in tax_entry['motivators']:
@@ -655,7 +650,7 @@ def build_multilingual_database():
             latest_en_bio = bios_list[-1]['i18n'].get('EN', '')
             latest_jp_bio = bios_list[-1].get('jp', '')
                 
-        tax_entry = tax_map.get(('team', team_name), {'pillars': ['MARTIAL'], 'motivators': ['BOND']})
+        tax_entry = tax_map.get(t_id, {'pillars': ['MARTIAL'], 'motivators': ['BOND']})
         for p in tax_entry['pillars']:
             themes.append('p:' + p)
         for m in tax_entry['motivators']:
