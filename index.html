@@ -2040,6 +2040,46 @@
 
       var _setModeBase = setMode;
       setMode = function (m, keep) { if (m === 'glossary') return setGlossaryMode(); return _setModeBase(m, keep) };
+            function taxonomyHtml() {
+        return '<details class="gl" style="margin:16px 0 24px 0;border:1px solid rgba(128,128,128,.35);border-radius:6px;padding:12px 16px" open>' +
+          '<summary style="cursor:pointer;font-weight:600;font-size:1.05rem">Taxonomy: Pillars &amp; Motivators <small class="dim">Classification System</small></summary>' +
+          '<div style="margin-top:14px;line-height:1.6">' +
+          '<h3 style="margin:0 0 8px 0;font-size:1.15rem">Martial, Bond.. What do these mean?</h3>' +
+          '<p style="margin:0 0 8px 0">Rivals are classified along two straightforward axes:</p>' +
+          '<ol style="margin:0 0 16px 20px;padding:0">' +
+          '<li><b>The Highway (Macro):</b> The How</li>' +
+          '<li><b>The Driver (Micro):</b> The Why</li>' +
+          '</ol>' +
+          '<h4 style="margin:20px 0 8px 0;font-size:1rem;font-weight:600;color:var(--accent,#e54d42)">Aspect 1: The Road — How They See the Shuto (Macro)</h4>' +
+          '<div style="overflow-x:auto;margin-bottom:20px">' +
+          '<table class="tg" style="width:100%;min-width:0;table-layout:auto;border-collapse:collapse">' +
+          '<thead><tr>' +
+          '<th style="text-align:left;background:var(--bg,#fff);padding:8px">Tag ID</th>' +
+          '<th style="text-align:left;background:var(--bg,#fff);padding:8px">Pillar Name</th>' +
+          '<th style="text-align:left;background:var(--bg,#fff);padding:8px">Japanese Concepts</th>' +
+          '<th style="text-align:left;background:var(--bg,#fff);padding:8px">Core Definition &amp; Scope</th>' +
+          '</tr></thead><tbody>' +
+          '<tr><td style="padding:8px;vertical-align:top"><b><code>MARTIAL</code></b></td><td style="padding:8px;vertical-align:top"><b>Martial Philosophy</b></td><td style="padding:8px;vertical-align:top">武道, 不動心, 独行道, 師弟</td><td style="padding:8px;vertical-align:top">Sovereigns, Bushido, Munenori/Musashi doctrines, spatial timing (<i>Maai</i>), SP battle composure (<i>Fudōshin</i>), and master-disciple lineages.</td></tr>' +
+          '<tr><td style="padding:8px;vertical-align:top"><b><code>FEUDAL</code></b></td><td style="padding:8px;vertical-align:top"><b>Feudal Allegories</b></td><td style="padding:8px;vertical-align:top">藩閥, 新選組, 戦国, 領地</td><td style="padding:8px;vertical-align:top">Clan structures, Shinsengumi highway patrols, Sengoku/Bakumatsu warlord parallels, territorial retainerships, and dynastic successions.</td></tr>' +
+          '<tr><td style="padding:8px;vertical-align:top"><b><code>SUPERNATURAL</code></b></td><td style="padding:8px;vertical-align:top"><b>Supernatural &amp; Folklore</b></td><td style="padding:8px;vertical-align:top">付喪神, 生霊, 鬼, 供養</td><td style="padding:8px;vertical-align:top"><i>Tsukumogami</i> (vessels inhabited by spirits), <i>Ikiryō</i> (living astral projections), Oni/Yokai demonology, phantom ghost machines, and Buddhist <i>Kuyō</i> memorial vessels.</td></tr>' +
+          '<tr><td style="padding:8px;vertical-align:top"><b><code>INDUSTRY</code></b></td><td style="padding:8px;vertical-align:top"><b>Industry &amp; Real-World</b></td><td style="padding:8px;vertical-align:top">工房, 調律, 職人, 実在</td><td style="padding:8px;vertical-align:top">Professional tuning houses, aftermarket performance brands, scale model collaborative syndicates, and real-world racing drivers.</td></tr>' +
+          '</tbody></table></div>' +
+          '<h4 style="margin:20px 0 8px 0;font-size:1rem;font-weight:600;color:var(--accent,#e54d42)">Aspect 2: The Driver — Why They Run (Micro)</h4>' +
+          '<div style="overflow-x:auto">' +
+          '<table class="tg" style="width:100%;min-width:0;table-layout:auto;border-collapse:collapse">' +
+          '<thead><tr>' +
+          '<th style="text-align:left;background:var(--bg,#fff);padding:8px">Tag ID</th>' +
+          '<th style="text-align:left;background:var(--bg,#fff);padding:8px">Motivator Name</th>' +
+          '<th style="text-align:left;background:var(--bg,#fff);padding:8px">Japanese Concepts</th>' +
+          '<th style="text-align:left;background:var(--bg,#fff);padding:8px">Core Definition &amp; Scope</th>' +
+          '</tr></thead><tbody>' +
+          '<tr><td style="padding:8px;vertical-align:top"><b><code>GRIEF</code></b></td><td style="padding:8px;vertical-align:top"><b>Grief &amp; Loss</b></td><td style="padding:8px;vertical-align:top">喪失, 哀悼, 追悼, 供養</td><td style="padding:8px;vertical-align:top"><b>Facing the Past with Sorrow.</b> Driving as a memorial ritual (<i>Kuyō</i>) for departed loved ones, lost friends, shattered eras, fatal crash sites, or a lost former self.</td></tr>' +
+          '<tr><td style="padding:8px;vertical-align:top"><b><code>VENDETTA</code></b></td><td style="padding:8px;vertical-align:top"><b>Vendetta &amp; Obsession</b></td><td style="padding:8px;vertical-align:top">因縁, 復讐, 執念, 奪還</td><td style="padding:8px;vertical-align:top"><b>Facing the Past with Rage.</b> The inability to accept defeat, all-consuming grudges, revanchist score-settling, and toxic obsession with dethroning a rival.</td></tr>' +
+          '<tr><td style="padding:8px;vertical-align:top"><b><code>ESCAPE</code></b></td><td style="padding:8px;vertical-align:top"><b>The Escape &amp; The Void</b></td><td style="padding:8px;vertical-align:top">虚無, 現実逃避, 孤独, 焦燥</td><td style="padding:8px;vertical-align:top"><b>Fleeing the Mundane Present.</b> Running from suffocating daylight/salaryman drudgery, existential isolation, mid-life crises, and panic over fading youth (<i>"time is running out"</i>).</td></tr>' +
+          '<tr><td style="padding:8px;vertical-align:top"><b><code>BOND</code></b></td><td style="padding:8px;vertical-align:top"><b>Devotion &amp; Pure Craft</b></td><td style="padding:8px;vertical-align:top">絆, 情熱, 草の根, 求道</td><td style="padding:8px;vertical-align:top"><b>Building the Future.</b> Grassroots brotherhood, master-apprentice loyalty, mechanical empathy, and the pursuit of driving as pure dialogue (<i>"a battle is communication"</i>).</td></tr>' +
+          '</tbody></table></div>' +
+          '</div></details>';
+      }
       function setGlossaryMode() {
         state.mode = 'glossary'; state.sel = null; state.themes = {};
         document.querySelector('.layout').classList.remove('has-sel');
@@ -2049,6 +2089,7 @@
         var v = document.getElementById('view');
         var G2 = D.glossary || [];
         var h = '<p class="eyebrow">Reference</p><h2 class="title">Glossary</h2><p class="aka">Master translation tables used for names, bynames, teams and series terms.</p>';
+        h += taxonomyHtml();
         G2.forEach(function (g, gi) {
           h += '<details class="gl" data-gi="' + gi + '" style="margin:12px 0;border:1px solid rgba(128,128,128,.35);border-radius:6px;padding:8px 12px"><summary style="cursor:pointer;font-weight:600">' + esc(g.title) + ' <small class="dim">' + g.rows.length + ' entries</small></summary><div class="gl-body"></div></details>';
         });
